@@ -115,13 +115,10 @@ the Faculty of Information Technology, University of Industry and Trade (HUIT).
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiaBao051&show_icons=true&theme=dark&hide_title=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao051&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GiaBao051&theme=dark&hide_border=true" height="160"/>
+  height="170"
 </p>
 
 
