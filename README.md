@@ -115,7 +115,7 @@ the Faculty of Information Technology, University of Industry and Trade (HUIT).
 ---
 
 ## 📊 GitHub Stats
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=GiaBao051&show_icons=true&theme=dark&hide_title=true" height="150"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao051&layout=compact&theme=dark" height="150"/> 
