@@ -13,7 +13,7 @@ IT Student | Software Engineering Enthusiast | Applied Computing
 - 🧠 Currently focusing on **Object-Oriented Programming, Web Development, and Databases**
 - 📈 Long-term goal: build solid engineering fundamentals and grow into a professional software engineer
 
----
+----
 
 ## 🛠 Skills
 
