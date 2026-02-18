@@ -4,7 +4,7 @@
 IT Student | Software Engineering Enthusiast | Applied Computing
 </p>
 
-----
+-----
 
 ## 👨‍🎓 About Me
 
