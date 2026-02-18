@@ -42,7 +42,7 @@ IT Student | Software Engineering Enthusiast | Applied Computing
 - Git & GitHub (version control)  
 - Teamwork, self-learning, technical documentation  
 
----
+----
 
 ## ⭐ Highlight Projects
 
