@@ -101,7 +101,6 @@ the Faculty of Information Technology, University of Industry and Trade (HUIT).
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p> 
-<-Update->
 
 ### Databases
 <p>
