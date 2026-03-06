@@ -116,12 +116,15 @@ the Faculty of Information Technology, University of Industry and Trade (HUIT).
 
 ## 📊 GitHub Stats
 
+<!-- GitHub Stats + Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiaBao051&show_icons=true&theme=dark" />
-  <img src="https://streak-stats.demolab.com?user=GiaBao051&theme=dark&hide_border=false"height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao051&layout=compact&theme=dark" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiaBao051&theme=react-dark" />
-  <img src="https://github-profile-trophy.vercel.app/?username=GiaBao051&theme=darkhub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiaBao051&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao051&layout=compact&theme=dark" height="150"/>
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GiaBao051&theme=dark" height="160"/>
 </p>
 
 
