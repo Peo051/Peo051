@@ -137,9 +137,9 @@ goal: Become a reliable, impact-driven software engineer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GiaBao051&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&rank_icon=github" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiaBao051&theme=github_dark" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao051&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiaBao051&theme=github_dark" height="160"/>
 
 <br/><br/>
 
