@@ -8,9 +8,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GiaBao051&color=58A6FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Peo051&color=58A6FF&style=flat-square&label=Profile+Views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/GiaBao051?label=Followers&style=flat-square&color=58A6FF&logo=github)](https://github.com/GiaBao051?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Peo051?label=Followers&style=flat-square&color=58A6FF&logo=github)](https://github.com/Peo051?tab=followers)
 
 </div>
 
@@ -159,17 +159,17 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiaBao051&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peo051&theme=github_dark" height="160"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiaBao051&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peo051&theme=github_dark" height="160"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=GiaBao051&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a5c&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" height="150"/>
+<img src="https://streak-stats.demolab.com?user=Peo051&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a5c&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" height="150"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiaBao051&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Peo051&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -189,8 +189,8 @@ demonstrating problem-solving ability and optimization-oriented thinking.
   <img src="https://img.shields.io/badge/Facebook-peo.0501-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/GiaBao051">
-  <img src="https://img.shields.io/badge/GitHub-GiaBao051-181717?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/Peo051">
+  <img src="https://img.shields.io/badge/GitHub-Peo051-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
