@@ -87,30 +87,30 @@ goal: Become a reliable, impact-driven software engineer
 #### ☕ [Coffee_Shop_Management](https://github.com/Peo051/Coffee_Shop_Management)
 **Tech:** CSS (Front-end Web)
 
-Team project phát triển website quản lý chuỗi cửa hàng cà phê với định hướng giao diện hiện đại,
-nhất quán thương hiệu và tối ưu trải nghiệm người dùng. Dự án thể hiện năng lực xây dựng giao diện
-front-end có cấu trúc, phục vụ bài toán kinh doanh thực tế.
+Team project focused on building a coffee chain management website with a modern interface,
+consistent brand identity, and user-centered experience. This project demonstrates the ability to
+develop structured front-end interfaces aligned with practical business requirements.
 
 #### 🧠 fake-news-detection (Private)
 **Tech:** Python
 
-Dự án nghiên cứu phát hiện tin giả bằng Python, tập trung vào bài toán phân loại văn bản.
-Quá trình thực hiện giúp củng cố tư duy xử lý dữ liệu, xây dựng pipeline học máy và đánh giá mô hình
-trong bối cảnh ứng dụng AI thực tiễn.
+Research-oriented Python project for fake news detection, focused on text classification.
+The implementation strengthened data processing skills, machine learning pipeline development,
+and model evaluation in practical AI scenarios.
 
 #### 🧮 [Calculator](https://github.com/Peo051/Calculator)
 **Tech:** C#
 
-Ứng dụng máy tính xây dựng bằng C# nhằm rèn luyện nền tảng lập trình hướng đối tượng
-và tư duy thiết kế logic nghiệp vụ. Dự án thể hiện khả năng tổ chức mã nguồn rõ ràng,
-dễ bảo trì cho ứng dụng desktop cơ bản.
+Calculator application built with C# to reinforce object-oriented programming fundamentals
+and business-logic design thinking. The project reflects clear code organization and
+maintainability practices for a basic desktop application.
 
 #### 🚗 [QuanLiBaiDoXe](https://github.com/Peo051/QuanLiBaiDoXe)
 **Tech:** C++
 
-Đồ án cuối kỳ môn DSA mô phỏng hệ thống quản lý bãi đỗ xe bằng C++.
-Dự án tập trung áp dụng cấu trúc dữ liệu và thuật toán để xử lý luồng xe vào/ra hiệu quả,
-thể hiện kỹ năng giải quyết vấn đề và tư duy tối ưu hóa trong lập trình.
+Final DSA course project simulating a parking management system in C++.
+It applies data structures and algorithms to process vehicle in/out flows efficiently,
+demonstrating problem-solving ability and optimization-oriented thinking.
 
 ---
 
