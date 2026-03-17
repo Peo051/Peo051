@@ -82,13 +82,31 @@ goal: Become a reliable, impact-driven software engineer
 
 ---
 
-### 📁 Projects
+### 📌 Highlight Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **Self-Introduction Website** | Personal portfolio site with responsive layout and UI/UX fundamentals | HTML5 · CSS3 · JavaScript |
-| **OOP Summary Notes** | Structured notes and runnable examples covering core OOP concepts | C# · .NET |
-| **Personal CV** | Digitally maintained, version-controlled curriculum vitae | Markdown |
+#### ☕ [Coffee_Shop_Management](https://github.com/Peo051/Coffee_Shop_Management)
+**Tech:** CSS (Front-end Web)
+
+Đồ án quản lý chuỗi cửa hàng bán cà phê, tập trung xây dựng giao diện thương hiệu hiện đại,
+trải nghiệm người dùng tốt và tổ chức nội dung theo mô hình website kinh doanh.
+
+#### 🧠 fake-news-detection (Private)
+**Tech:** Python
+
+Dự án phát hiện tin giả bằng Python, hướng đến bài toán phân loại văn bản và ứng dụng kiến thức
+AI/ML vào kịch bản thực tế.
+
+#### 🧮 [Calculator](https://github.com/Peo051/Calculator)
+**Tech:** C#
+
+Ứng dụng máy tính viết bằng C#, thể hiện nền tảng lập trình hướng đối tượng,
+xử lý logic nghiệp vụ và tổ chức code cho ứng dụng desktop cơ bản.
+
+#### 🚗 [QuanLiBaiDoXe](https://github.com/Peo051/QuanLiBaiDoXe)
+**Tech:** C++
+
+Đồ án cuối kỳ DSA về quản lý bãi đỗ xe, áp dụng cấu trúc dữ liệu và thuật toán
+để xử lý luồng xe vào/ra và tối ưu thao tác quản lý.
 
 ---
 
