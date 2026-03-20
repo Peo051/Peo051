@@ -16,7 +16,7 @@
 
 <br/>
 
------
+---
 
 ### 👤 About Me
 
@@ -152,6 +152,25 @@ demonstrating problem-solving ability and optimization-oriented thinking.
   Reached the university-level final round.
 </p>
 </details>
+
+---
+
+### 📜 Certifications
+
+#### 1. Financial Data Analysis and Decision-Making in the Advent of AI
+- **Status:** Completed
+- **Summary:** This certificate shows my basic knowledge of financial data analysis and decision-making in the age of AI.
+- **Evidence:** image/Certificate_Trần Dương Gia Bảo.png
+
+#### 2. Gemini Certified Educator
+- **Status:** Completed
+- **Summary:** Demonstrates practical understanding of Gemini capabilities for educational and learning-support use cases.
+- **Evidence:** image/Gemini Certified Educator.png
+
+#### 3. Gemini Certified University Student
+- **Status:** Completed
+- **Summary:** Validates foundational Gemini skills for student workflows, including research support, content drafting, and productivity.
+- **Evidence:** image/Gemini Certified University Student.png
 
 ---
 
