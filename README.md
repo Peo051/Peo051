@@ -160,17 +160,29 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 #### 1. Financial Data Analysis and Decision-Making in the Advent of AI
 - **Status:** Completed
 - **Summary:** This certificate shows my basic knowledge of financial data analysis and decision-making in the age of AI.
-- **Evidence:** image/Certificate_Trần Dương Gia Bảo.png
+- **Evidence:** image/certificate-financial-data-ai.png
+
+<p align="center">
+  <img src="./image/certificate-financial-data-ai.png" width="700" alt="Financial Data Analysis and Decision-Making in the Advent of AI Certificate"/>
+</p>
 
 #### 2. Gemini Certified Educator
 - **Status:** Completed
 - **Summary:** Demonstrates practical understanding of Gemini capabilities for educational and learning-support use cases.
-- **Evidence:** image/Gemini Certified Educator.png
+- **Evidence:** image/gemini-certified-educator.png
+
+<p align="center">
+  <img src="./image/gemini-certified-educator.png" width="700" alt="Gemini Certified Educator Certificate"/>
+</p>
 
 #### 3. Gemini Certified University Student
 - **Status:** Completed
 - **Summary:** Validates foundational Gemini skills for student workflows, including research support, content drafting, and productivity.
-- **Evidence:** image/Gemini Certified University Student.png
+- **Evidence:** image/gemini-certified-university-student.png
+
+<p align="center">
+  <img src="./image/gemini-certified-university-student.png" width="700" alt="Gemini Certified University Student Certificate"/>
+</p>
 
 ---
 
