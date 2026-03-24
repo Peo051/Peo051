@@ -206,7 +206,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peo051&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peo051&theme=github_dark&v=10" height="160"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peo051&theme=github_dark" height="160"/>
 
