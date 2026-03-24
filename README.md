@@ -216,7 +216,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Peo051&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Peo051&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&v=10" width="95%"/>
 
 </div>
 
