@@ -117,7 +117,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 ### 🏆 Achievements
 
 <details>
-<summary><strong>Database Design Challenge — HUIT, AY 2025–2026</strong> &nbsp;🥉 Encouragement Prize</summary>
+<summary><strong>Database Design Challenge — HUIT, AY 2025–2026</strong> &nbsp;🏅 Encouragement Prize</summary>
 <br/>
 <p align="center">
   <img src="./image/database-design-challenge-2025.jpg" width="520"/>
@@ -153,9 +153,183 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 </p>
 </details>
 
+<br/>
+
+<details>
+<summary><strong>Student Research Competition — HUIT, AY 2025–2026</strong> &nbsp;🏅 Encouragement Prize</summary>
+<br/>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Encouragement Prize Certificate</strong><br/><br/>
+      <img src="./image/achievement-research-competition-encouragement-2026.png" width="420"/>
+    </td>
+    <td align="center" width="50%">
+      <strong>Participation Certificate</strong><br/><br/>
+      <img src="./image/achievement-research-competition-certificate-2026.png" width="420"/>
+    </td>
+  </tr>
+</table>
+<p>
+  <strong>Topic:</strong> "Optimizing Time in Mining High Utility Itemsets on Positive and Negative Profit Transaction Databases"<br/>
+  <strong>Team:</strong> Trần Dương Gia Bảo, Trần Gia Bảo<br/>
+  <strong>Advisors:</strong> ThS. Vũ Văn Vinh, HV. Phạm Tấn Thuận<br/>
+  <strong>Date:</strong> April 4, 2026<br/><br/>
+  Participated in the Faculty-level Student Research Competition organized by the Faculty of Information Technology, 
+  University of Industry and Trade (HUIT). Awarded the Encouragement Prize for research quality and innovative approach 
+  in data mining optimization.
+</p>
+</details>
+
 ---
 
 ### 📜 Certifications
+
+<details>
+<summary><strong>Google AI Professional Certificate</strong> &nbsp;🎓 7 Courses Completed</summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Comprehensive professional certificate demonstrating fluency in AI across 7 specialized courses. Built 20+ AI artifacts and developed custom AI solutions. Covers brainstorming, research, communication, content creation, data analysis, and coding with AI tools.
+- **Verification:** [View Certificate](https://coursera.org/verify/professional-cert/9477BZVHLC2N)
+
+<p align="center">
+  <img src="./image/certificate-google-ai-professional.png" width="700" alt="Google AI Professional Certificate"/>
+</p>
+
+**Included Courses:**
+- AI Fundamentals
+- AI for Brainstorming and Planning
+- AI for Research and Insights
+- AI for Writing and Communicating
+- AI for Content Creation
+- AI for Data Analysis
+- AI for App Building
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>AI Fundamentals</strong></summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Foundation course covering core AI concepts and practical applications.
+- **Verification:** [View Certificate](https://coursera.org/verify/LBBNAFKH73YU)
+
+<p align="center">
+  <img src="./image/certificate-google-ai-fundamentals.png" width="700" alt="AI Fundamentals Certificate"/>
+</p>
+</details>
+
+<br/>
+
+<details>
+<summary><strong>AI for Brainstorming and Planning</strong></summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Learned to leverage AI tools for effective brainstorming, ideation, and project planning workflows.
+- **Verification:** [View Certificate](https://coursera.org/verify/CXD4JWUUX6R1)
+
+<p align="center">
+  <img src="./image/certificate-google-ai-brainstorming-planning.png" width="700" alt="AI for Brainstorming and Planning Certificate"/>
+</p>
+</details>
+
+<br/>
+
+<details>
+<summary><strong>AI for Research and Insights</strong></summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Developed skills in using AI for research tasks, data gathering, and extracting actionable insights.
+- **Verification:** [View Certificate](https://coursera.org/verify/82WE4I9VAFZ4)
+
+<p align="center">
+  <img src="./image/certificate-google-ai-research-insights.png" width="700" alt="AI for Research and Insights Certificate"/>
+</p>
+</details>
+
+<br/>
+
+<details>
+<summary><strong>AI for Writing and Communicating</strong></summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Mastered AI-assisted writing techniques for clear, effective communication across various formats.
+- **Verification:** [View Certificate](https://coursera.org/verify/O1LLZPBZJDZO)
+
+<p align="center">
+  <img src="./image/certificate-google-ai-writing-communicating.png" width="700" alt="AI for Writing and Communicating Certificate"/>
+</p>
+</details>
+
+<br/>
+
+<details>
+<summary><strong>AI for Content Creation</strong></summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Learned to create diverse content types using AI tools, from text to multimedia assets.
+- **Verification:** [View Certificate](https://coursera.org/verify/98M51OJHX14HM)
+
+<p align="center">
+  <img src="./image/certificate-google-ai-content-creation.png" width="700" alt="AI for Content Creation Certificate"/>
+</p>
+</details>
+
+<br/>
+
+<details>
+<summary><strong>AI for Data Analysis</strong></summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Applied AI techniques to analyze data, identify patterns, and generate insights for decision-making.
+- **Verification:** [View Certificate](https://coursera.org/verify/0LYMLZ14PN2X)
+
+<p align="center">
+  <img src="./image/certificate-google-ai-data-analysis.png" width="700" alt="AI for Data Analysis Certificate"/>
+</p>
+</details>
+
+<br/>
+
+<details>
+<summary><strong>AI Application for Game, Web, and Project Management</strong></summary>
+<br/>
+
+- **Issued by:** Công ty TNHH Lượng Từ Xanh (Green Quantum Company)
+- **Date:** February 4 - 15, 2026
+- **Status:** Completed
+- **Summary:** Completed training program on AI applications in game development, web development, and project management. Practical course focused on integrating AI technologies into real-world software projects.
+- **Location:** Ho Chi Minh City, Vietnam
+
+<p align="center">
+  <img src="./image/certificate-ai-game-web-project-management.png" width="700" alt="AI Application Certificate"/>
+</p>
+</details>
+
+<br/>
 
 <details>
 <summary><strong>Financial Data Analysis and Decision-Making in the Advent of AI</strong></summary>
@@ -163,7 +337,6 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 - **Status:** Completed
 - **Summary:** This certificate shows my basic knowledge of financial data analysis and decision-making in the age of AI.
-- **Evidence:** image/certificate-financial-data-ai.png
 
 <p align="center">
   <img src="./image/certificate-financial-data-ai.png" width="700" alt="Financial Data Analysis and Decision-Making in the Advent of AI Certificate"/>
@@ -178,7 +351,6 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 - **Status:** Completed
 - **Summary:** Demonstrates practical understanding of Gemini capabilities for educational and learning-support use cases.
-- **Evidence:** image/gemini-certified-educator.png
 
 <p align="center">
   <img src="./image/gemini-certified-educator.png" width="700" alt="Gemini Certified Educator Certificate"/>
@@ -193,7 +365,6 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 - **Status:** Completed
 - **Summary:** Validates foundational Gemini skills for student workflows, including research support, content drafting, and productivity.
-- **Evidence:** image/gemini-certified-university-student.png
 
 <p align="center">
   <img src="./image/gemini-certified-university-student.png" width="700" alt="Gemini Certified University Student Certificate"/>
