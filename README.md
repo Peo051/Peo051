@@ -84,8 +84,16 @@ goal: Become a reliable, impact-driven software engineer
 
 ### 📌 Highlight Projects
 
-#### ☕ [Coffee_Shop_Management](https://github.com/Peo051/Coffee_Shop_Management)
-**Tech:** CSS (Front-end Web)
+#### ☕ [Coffee_Shop_Management_WPF](https://github.com/Peo051/Coffee_Shop_Management_WPF)
+**Tech:** C# | WPF | .NET | SQL Server (Back-end WPF)
+
+Desktop application for coffee shop management built with WPF (Windows Presentation Foundation) and C#.
+This project demonstrates proficiency in building enterprise-level desktop applications with modern UI/UX design,
+MVVM architecture pattern, database integration, and comprehensive business logic implementation for inventory,
+sales, and customer management.
+
+#### ☕ [Coffee_Shop_Management_WEB](https://github.com/Peo051/Coffee_Shop_Management)
+**Tech:** HTML, CSS, JAVASCRIPT (Front-end Web)
 
 Team project focused on building a coffee chain management website with a modern interface,
 consistent brand identity, and user-centered experience. This project demonstrates the ability to
@@ -99,7 +107,7 @@ The implementation strengthened data processing skills, machine learning pipelin
 and model evaluation in practical AI scenarios.
 
 #### 🧮 [Calculator](https://github.com/Peo051/Calculator)
-**Tech:** C#
+**Tech:** C# | WPF | .NET |
 
 Calculator application built with C# to reinforce object-oriented programming fundamentals
 and business-logic design thinking. The project reflects clear code organization and
