@@ -345,6 +345,10 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 <br/><br/>
 
+<a href="https://www.linkedin.com/in/trần-dương-gia-bảo-951b10389">
+  <img src="https://img.shields.io/badge/LinkedIn-Trần_Dương_Gia_Bảo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://www.facebook.com/peo.0501">
   <img src="https://img.shields.io/badge/Facebook-peo.0501-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
