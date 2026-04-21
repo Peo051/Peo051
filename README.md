@@ -213,6 +213,23 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <br/>
 
 <details>
+<summary><strong>AI for Writing and Communicating</strong></summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Mastered AI-assisted writing techniques for clear, effective communication across various formats.
+- **Verification:** [View Certificate](https://coursera.org/verify/O1LLZPBZJDZO)
+
+<p align="center">
+  <img src="./image/certificate-google-ai-writing-communicating.png" width="700" alt="AI for Writing and Communicating Certificate"/>
+</p>
+</details>
+
+<br/>
+
+<details>
 <summary><strong>AI Fundamentals</strong></summary>
 <br/>
 
@@ -230,51 +247,17 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <br/>
 
 <details>
-<summary><strong>AI for Brainstorming and Planning</strong></summary>
+<summary><strong>AI Application for Game, Web, and Project Management</strong></summary>
 <br/>
 
-- **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
+- **Issued by:** Công ty TNHH Lượng Từ Xanh (Green Quantum Company)
+- **Date:** February 4 - 15, 2026
 - **Status:** Completed
-- **Summary:** Learned to leverage AI tools for effective brainstorming, ideation, and project planning workflows.
-- **Verification:** [View Certificate](https://coursera.org/verify/CXD4JWUUX6R1)
+- **Summary:** Completed training program on AI applications in game development, web development, and project management. Practical course focused on integrating AI technologies into real-world software projects.
+- **Location:** Ho Chi Minh City, Vietnam
 
 <p align="center">
-  <img src="./image/certificate-google-ai-brainstorming-planning.png" width="700" alt="AI for Brainstorming and Planning Certificate"/>
-</p>
-</details>
-
-<br/>
-
-<details>
-<summary><strong>AI for Research and Insights</strong></summary>
-<br/>
-
-- **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
-- **Status:** Completed
-- **Summary:** Developed skills in using AI for research tasks, data gathering, and extracting actionable insights.
-- **Verification:** [View Certificate](https://coursera.org/verify/82WE4I9VAFZ4)
-
-<p align="center">
-  <img src="./image/certificate-google-ai-research-insights.png" width="700" alt="AI for Research and Insights Certificate"/>
-</p>
-</details>
-
-<br/>
-
-<details>
-<summary><strong>AI for Writing and Communicating</strong></summary>
-<br/>
-
-- **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
-- **Status:** Completed
-- **Summary:** Mastered AI-assisted writing techniques for clear, effective communication across various formats.
-- **Verification:** [View Certificate](https://coursera.org/verify/O1LLZPBZJDZO)
-
-<p align="center">
-  <img src="./image/certificate-google-ai-writing-communicating.png" width="700" alt="AI for Writing and Communicating Certificate"/>
+  <img src="./image/certificate-ai-game-web-project-management.png" width="700" alt="AI Application Certificate"/>
 </p>
 </details>
 
@@ -298,6 +281,23 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <br/>
 
 <details>
+<summary><strong>AI for Research and Insights</strong></summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Developed skills in using AI for research tasks, data gathering, and extracting actionable insights.
+- **Verification:** [View Certificate](https://coursera.org/verify/82WE4I9VAFZ4)
+
+<p align="center">
+  <img src="./image/certificate-google-ai-research-insights.png" width="700" alt="AI for Research and Insights Certificate"/>
+</p>
+</details>
+
+<br/>
+
+<details>
 <summary><strong>AI for Data Analysis</strong></summary>
 <br/>
 
@@ -315,17 +315,17 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <br/>
 
 <details>
-<summary><strong>AI Application for Game, Web, and Project Management</strong></summary>
+<summary><strong>AI for Brainstorming and Planning</strong></summary>
 <br/>
 
-- **Issued by:** Công ty TNHH Lượng Từ Xanh (Green Quantum Company)
-- **Date:** February 4 - 15, 2026
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
 - **Status:** Completed
-- **Summary:** Completed training program on AI applications in game development, web development, and project management. Practical course focused on integrating AI technologies into real-world software projects.
-- **Location:** Ho Chi Minh City, Vietnam
+- **Summary:** Learned to leverage AI tools for effective brainstorming, ideation, and project planning workflows.
+- **Verification:** [View Certificate](https://coursera.org/verify/CXD4JWUUX6R1)
 
 <p align="center">
-  <img src="./image/certificate-ai-game-web-project-management.png" width="700" alt="AI Application Certificate"/>
+  <img src="./image/certificate-google-ai-brainstorming-planning.png" width="700" alt="AI for Brainstorming and Planning Certificate"/>
 </p>
 </details>
 
