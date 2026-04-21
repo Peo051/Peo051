@@ -199,49 +199,51 @@ demonstrating problem-solving ability and optimization-oriented thinking.
   <img src="./image/certificate-google-ai-professional.png" width="700" alt="Google AI Professional Certificate"/>
 </p>
 
-**Included Courses:**
-- AI Fundamentals
-- AI for Brainstorming and Planning
-- AI for Research and Insights
-- AI for Writing and Communicating
-- AI for Content Creation
-- AI for Data Analysis
-- AI for App Building
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View Individual Course Certificates</strong></summary>
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>AI for Writing and Communicating</strong><br/>
+      <sub><a href="https://coursera.org/verify/O1LLZPBZJDZO">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-writing-communicating.png" width="340"/>
+    </td>
+    <td align="center" width="50%">
+      <strong>AI Fundamentals</strong><br/>
+      <sub><a href="https://coursera.org/verify/LBBNAFKH73YU">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-fundamentals.png" width="340"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>AI for Content Creation</strong><br/>
+      <sub><a href="https://coursera.org/verify/98M51OJHX14HM">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-content-creation.png" width="340"/>
+    </td>
+    <td align="center" width="50%">
+      <strong>AI for Research and Insights</strong><br/>
+      <sub><a href="https://coursera.org/verify/82WE4I9VAFZ4">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-research-insights.png" width="340"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>AI for Data Analysis</strong><br/>
+      <sub><a href="https://coursera.org/verify/0LYMLZ14PN2X">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-data-analysis.png" width="340"/>
+    </td>
+    <td align="center" width="50%">
+      <strong>AI for Brainstorming and Planning</strong><br/>
+      <sub><a href="https://coursera.org/verify/CXD4JWUUX6R1">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-brainstorming-planning.png" width="340"/>
+    </td>
+  </tr>
+</table>
 
 </details>
 
-<br/>
-
-<details>
-<summary><strong>AI for Writing and Communicating</strong></summary>
-<br/>
-
-- **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
-- **Status:** Completed
-- **Summary:** Mastered AI-assisted writing techniques for clear, effective communication across various formats.
-- **Verification:** [View Certificate](https://coursera.org/verify/O1LLZPBZJDZO)
-
-<p align="center">
-  <img src="./image/certificate-google-ai-writing-communicating.png" width="700" alt="AI for Writing and Communicating Certificate"/>
-</p>
-</details>
-
-<br/>
-
-<details>
-<summary><strong>AI Fundamentals</strong></summary>
-<br/>
-
-- **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
-- **Status:** Completed
-- **Summary:** Foundation course covering core AI concepts and practical applications.
-- **Verification:** [View Certificate](https://coursera.org/verify/LBBNAFKH73YU)
-
-<p align="center">
-  <img src="./image/certificate-google-ai-fundamentals.png" width="700" alt="AI Fundamentals Certificate"/>
-</p>
 </details>
 
 <br/>
@@ -258,74 +260,6 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 <p align="center">
   <img src="./image/certificate-ai-game-web-project-management.png" width="700" alt="AI Application Certificate"/>
-</p>
-</details>
-
-<br/>
-
-<details>
-<summary><strong>AI for Content Creation</strong></summary>
-<br/>
-
-- **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
-- **Status:** Completed
-- **Summary:** Learned to create diverse content types using AI tools, from text to multimedia assets.
-- **Verification:** [View Certificate](https://coursera.org/verify/98M51OJHX14HM)
-
-<p align="center">
-  <img src="./image/certificate-google-ai-content-creation.png" width="700" alt="AI for Content Creation Certificate"/>
-</p>
-</details>
-
-<br/>
-
-<details>
-<summary><strong>AI for Research and Insights</strong></summary>
-<br/>
-
-- **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
-- **Status:** Completed
-- **Summary:** Developed skills in using AI for research tasks, data gathering, and extracting actionable insights.
-- **Verification:** [View Certificate](https://coursera.org/verify/82WE4I9VAFZ4)
-
-<p align="center">
-  <img src="./image/certificate-google-ai-research-insights.png" width="700" alt="AI for Research and Insights Certificate"/>
-</p>
-</details>
-
-<br/>
-
-<details>
-<summary><strong>AI for Data Analysis</strong></summary>
-<br/>
-
-- **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
-- **Status:** Completed
-- **Summary:** Applied AI techniques to analyze data, identify patterns, and generate insights for decision-making.
-- **Verification:** [View Certificate](https://coursera.org/verify/0LYMLZ14PN2X)
-
-<p align="center">
-  <img src="./image/certificate-google-ai-data-analysis.png" width="700" alt="AI for Data Analysis Certificate"/>
-</p>
-</details>
-
-<br/>
-
-<details>
-<summary><strong>AI for Brainstorming and Planning</strong></summary>
-<br/>
-
-- **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
-- **Status:** Completed
-- **Summary:** Learned to leverage AI tools for effective brainstorming, ideation, and project planning workflows.
-- **Verification:** [View Certificate](https://coursera.org/verify/CXD4JWUUX6R1)
-
-<p align="center">
-  <img src="./image/certificate-google-ai-brainstorming-planning.png" width="700" alt="AI for Brainstorming and Planning Certificate"/>
 </p>
 </details>
 
