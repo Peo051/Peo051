@@ -257,6 +257,52 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <br/>
 
 <details>
+<summary><strong>Google UX Design Specialization</strong> &nbsp;🎨 4 Courses Completed</summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 22, 2026
+- **Status:** In Progress
+- **Summary:** Professional UX Design specialization covering the complete design process from user research to prototyping. Focuses on user-centered design principles, empathy mapping, wireframing, and usability testing.
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View Individual Course Certificates</strong></summary>
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Start the UX Design Process: Empathize, Define, and Ideate</strong><br/>
+      <sub><a href="https://coursera.org/verify/926MG2Z7ZQEE">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-empathize-define-ideate.png" width="340"/>
+    </td>
+    <td align="center" width="50%">
+      <strong>Conduct UX Research and Test Early Concepts</strong><br/>
+      <sub><a href="https://coursera.org/verify/Y4K2LKTMUP5V">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-research-test-concepts.png" width="340"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Build Wireframes and Low-Fidelity Prototypes</strong><br/>
+      <sub><a href="https://coursera.org/verify/NXQ2IIME4XM4">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-wireframes-prototypes.png" width="340"/>
+    </td>
+    <td align="center" width="50%">
+      <strong>Foundations of User Experience (UX) Design</strong><br/>
+      <sub><a href="https://coursera.org/verify/5ACPWD0XBD3W">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-foundations.png" width="340"/>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+</details>
+
+<br/>
+
+<details>
 <summary><strong>AI Application for Game, Web, and Project Management</strong></summary>
 <br/>
 
