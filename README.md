@@ -271,27 +271,27 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <strong>Start the UX Design Process: Empathize, Define, and Ideate</strong><br/>
+    <td align="center" width="50%" valign="top">
+      <strong>Start the UX Design Process:<br/>Empathize, Define, and Ideate</strong><br/>
       <sub><a href="https://coursera.org/verify/926MG2Z7ZQEE">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ux-empathize-define-ideate.png" width="340"/>
+      <img src="./image/certificate-google-ux-empathize-define-ideate.png" width="320"/>
     </td>
-    <td align="center" width="50%">
-      <strong>Conduct UX Research and Test Early Concepts</strong><br/>
+    <td align="center" width="50%" valign="top">
+      <strong>Conduct UX Research and<br/>Test Early Concepts</strong><br/>
       <sub><a href="https://coursera.org/verify/Y4K2LKTMUP5V">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ux-research-test-concepts.png" width="340"/>
+      <img src="./image/certificate-google-ux-research-test-concepts.png" width="320"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <strong>Build Wireframes and Low-Fidelity Prototypes</strong><br/>
+    <td align="center" width="50%" valign="top">
+      <strong>Build Wireframes and<br/>Low-Fidelity Prototypes</strong><br/>
       <sub><a href="https://coursera.org/verify/NXQ2IIME4XM4">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ux-wireframes-prototypes.png" width="340"/>
+      <img src="./image/certificate-google-ux-wireframes-prototypes.png" width="320"/>
     </td>
-    <td align="center" width="50%">
-      <strong>Foundations of User Experience (UX) Design</strong><br/>
+    <td align="center" width="50%" valign="top">
+      <strong>Foundations of User<br/>Experience (UX) Design</strong><br/>
       <sub><a href="https://coursera.org/verify/5ACPWD0XBD3W">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ux-foundations.png" width="340"/>
+      <img src="./image/certificate-google-ux-foundations.png" width="320"/>
     </td>
   </tr>
 </table>
