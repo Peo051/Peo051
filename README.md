@@ -356,11 +356,13 @@ demonstrating problem-solving ability and optimization-oriented thinking.
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Build Dynamic User Interfaces<br/>(UI) for Websites</strong><br/>
-      <sub><a href="https://coursera.org/verify/DRQSN9BG2QL2">View Certificate</a></sub>
+      <sub><a href="https://coursera.org/verify/DRQSN9BG2QL2">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-dynamic-ui-websites.png" width="320" alt="Build Dynamic User Interfaces (UI) for Websites Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Design a User Experience for<br/>Social Good & Prepare for Jobs</strong><br/>
-      <sub><a href="https://coursera.org/verify/B7WZ416MKODO">View Certificate</a></sub>
+      <sub><a href="https://coursera.org/verify/B7WZ416MKODO">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-social-good-prepare-for-jobs.png" width="320" alt="Design a User Experience for Social Good & Prepare for Jobs Certificate"/>
     </td>
   </tr>
 </table>
@@ -388,11 +390,13 @@ demonstrating problem-solving ability and optimization-oriented thinking.
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Design Prompts for Everyday Work Tasks</strong><br/>
-      <sub><a href="https://coursera.org/verify/Z8XRRMSZD9A9">View Certificate</a></sub>
+      <sub><a href="https://coursera.org/verify/Z8XRRMSZD9A9">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-design-prompts-everyday-work-tasks.png" width="320" alt="Design Prompts for Everyday Work Tasks Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Start Writing Prompts like a Pro</strong><br/>
-      <sub><a href="https://coursera.org/verify/7D7NHC7BYM89">View Certificate</a></sub>
+      <sub><a href="https://coursera.org/verify/7D7NHC7BYM89">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-start-writing-prompts-like-a-pro.png" width="320" alt="Start Writing Prompts like a Pro Certificate"/>
     </td>
   </tr>
   <tr>
@@ -438,21 +442,25 @@ demonstrating problem-solving ability and optimization-oriented thinking.
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Plan Your Job Search with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/4KVCJ4AEDZSB">View Certificate</a></sub>
+      <sub><a href="https://coursera.org/verify/4KVCJ4AEDZSB">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-plan-job-search-ai.png" width="320" alt="Plan Your Job Search with AI Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Manage Your Job Applications with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/4EEKR5ME6QIY">View Certificate</a></sub>
+      <sub><a href="https://coursera.org/verify/4EEKR5ME6QIY">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-manage-job-applications-ai.png" width="320" alt="Manage Your Job Applications with AI Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Uncover Your Transferable Skills with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/BOXPIJ1FTNTO">View Certificate</a></sub>
+      <sub><a href="https://coursera.org/verify/BOXPIJ1FTNTO">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-uncover-transferable-skills-ai.png" width="320" alt="Uncover Your Transferable Skills with AI Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Accelerate Your Job Search with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/GYOETDKLO0FO">View Certificate</a></sub>
+      <sub><a href="https://coursera.org/verify/GYOETDKLO0FO">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-accelerate-job-search-ai.png" width="320" alt="Accelerate Your Job Search with AI Certificate"/>
     </td>
   </tr>
 </table>
