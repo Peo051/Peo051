@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=160&section=header&text=Tr%E1%BA%A7n%20D%C6%B0%C6%A1ng%20Gia%20B%E1%BA%A3o&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20Progress%20%E2%80%94%20HUIT%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=60&descSize=16" width="100%"/>
 
@@ -194,7 +194,79 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 ### 📜 Certifications
 
 <details>
-<summary><strong>Google AI Essentials</strong> &nbsp;🎓 Specialization Completed</summary>
+<summary><strong>Google AI Professional Certificate</strong> &nbsp;🎓 Completed</summary>
+<br/>
+
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Comprehensive professional certificate demonstrating fluency in AI across 7 specialized courses. Built 20+ AI artifacts and developed custom AI solutions. Covers brainstorming, research, communication, content creation, data analysis, and app building with AI tools.
+- **Verification:** [View Certificate](https://coursera.org/verify/professional-cert/9477BZVHLC2N)
+
+<p align="center">
+  <img src="./image/certificate-google-ai-professional.png" width="700" alt="Google AI Professional Certificate"/>
+</p>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View Individual Course Certificates</strong></summary>
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <strong>AI Fundamentals</strong><br/>
+      <sub><a href="https://coursera.org/verify/LBBNAFKH73YU">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-fundamentals.png" width="320" alt="AI Fundamentals Certificate"/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <strong>AI for Brainstorming and Planning</strong><br/>
+      <sub><a href="https://coursera.org/verify/CXD4JWUUX6R1">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-brainstorming-planning.png" width="320" alt="AI for Brainstorming and Planning Certificate"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <strong>AI for Research and Insights</strong><br/>
+      <sub><a href="https://coursera.org/verify/82WE4I9VAFZ4">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-research-insights.png" width="320" alt="AI for Research and Insights Certificate"/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <strong>AI for Writing and Communicating</strong><br/>
+      <sub><a href="https://coursera.org/verify/O1LLZPBZJDZO">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-writing-communicating.png" width="320" alt="AI for Writing and Communicating Certificate"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <strong>AI for Content Creation</strong><br/>
+      <sub><a href="https://coursera.org/verify/98M51OJHX14HM">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-content-creation.png" width="320" alt="AI for Content Creation Certificate"/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <strong>AI for Data Analysis</strong><br/>
+      <sub><a href="https://coursera.org/verify/0LYMLZ14PN2X">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-data-analysis.png" width="320" alt="AI for Data Analysis Certificate"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <strong>AI for App Building</strong><br/>
+      <sub><a href="https://coursera.org/verify/KCQVVQXQVQXQ">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ai-for-app-building.png" width="320" alt="AI for App Building Certificate"/>
+    </td>
+    <td align="center" width="50%" valign="top">
+    </td>
+  </tr>
+</table>
+
+</details>
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>Google AI Essentials</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
 - **Issued by:** Google via Coursera
@@ -227,8 +299,8 @@ demonstrating problem-solving ability and optimization-oriented thinking.
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Discover the Art of Prompting</strong><br/>
-      <sub><a href="https://www.coursera.org/learn/google-discover-the-art-of-prompting">Course Link</a></sub>
-      <img src="./image/certificate-google-discover-the-art-of-prompting.png" width="320" alt="Discover the Art of Prompting Certificate" />
+      <sub><a href="https://coursera.org/verify/95K4US2N6RI4">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-discover-the-art-of-prompting.png" width="320" alt="Discover the Art of Prompting Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Use AI Responsibly</strong><br/>
@@ -254,17 +326,17 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <br/>
 
 <details>
-<summary><strong>Google AI Professional Certificate</strong> &nbsp;🎓 7 Courses Completed</summary>
+<summary><strong>Accelerate Your Job Search with AI</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
 - **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
+- **Date:** April 25, 2026
 - **Status:** Completed
-- **Summary:** Comprehensive professional certificate demonstrating fluency in AI across 7 specialized courses. Built 20+ AI artifacts and developed custom AI solutions. Covers brainstorming, research, communication, content creation, data analysis, and coding with AI tools.
-- **Verification:** [View Certificate](https://coursera.org/verify/professional-cert/9477BZVHLC2N)
+- **Summary:** Specialization focused on leveraging AI for job search optimization, application management, skills assessment, and interview preparation.
+- **Verification:** [View Specialization Certificate](https://coursera.org/verify/specialization/DM1GGN4MS6QE)
 
 <p align="center">
-  <img src="./image/certificate-google-ai-professional.png" width="700" alt="Google AI Professional Certificate"/>
+  <img src="./image/certificate-google-accelerate-your-job-search-with-ai.png" width="700" alt="Accelerate Your Job Search with AI Specialization Certificate"/>
 </p>
 
 <details>
@@ -273,39 +345,27 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <strong>AI for Writing and Communicating</strong><br/>
-      <sub><a href="https://coursera.org/verify/O1LLZPBZJDZO">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ai-writing-communicating.png" width="340"/>
+    <td align="center" width="50%" valign="top">
+      <strong>Uncover Your Transferable Skills with AI</strong><br/>
+      <sub><a href="https://coursera.org/verify/BOXPIJ1FTNTO">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-uncover-your-transferable-skills-with-ai.png" width="320" alt="Uncover Your Transferable Skills with AI Certificate"/>
     </td>
-    <td align="center" width="50%">
-      <strong>AI Fundamentals</strong><br/>
-      <sub><a href="https://coursera.org/verify/LBBNAFKH73YU">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ai-fundamentals.png" width="340"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>AI for Content Creation</strong><br/>
-      <sub><a href="https://coursera.org/verify/98M51OJHX14HM">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ai-content-creation.png" width="340"/>
-    </td>
-    <td align="center" width="50%">
-      <strong>AI for Research and Insights</strong><br/>
-      <sub><a href="https://coursera.org/verify/82WE4I9VAFZ4">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ai-research-insights.png" width="340"/>
+    <td align="center" width="50%" valign="top">
+      <strong>Plan Your Job Search with AI</strong><br/>
+      <sub><a href="https://coursera.org/verify/4KVCJ4AEDZSB">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-plan-your-job-search-with-ai.png" width="320" alt="Plan Your Job Search with AI Certificate"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <strong>AI for Data Analysis</strong><br/>
-      <sub><a href="https://coursera.org/verify/0LYMLZ14PN2X">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ai-data-analysis.png" width="340"/>
+    <td align="center" width="50%" valign="top">
+      <strong>Manage Your Job Applications with AI</strong><br/>
+      <sub><a href="https://coursera.org/verify/4EEKR5ME6QIY">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-manage-your-job-applications-with-ai.png" width="320" alt="Manage Your Job Applications with AI Certificate"/>
     </td>
-    <td align="center" width="50%">
-      <strong>AI for Brainstorming and Planning</strong><br/>
-      <sub><a href="https://coursera.org/verify/CXD4JWUUX6R1">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ai-brainstorming-planning.png" width="340"/>
+    <td align="center" width="50%" valign="top">
+      <strong>Prepare and Practice for Interviews with AI</strong><br/>
+      <sub><a href="https://coursera.org/verify/RBQ3URO1UDZ5">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-prepare-and-practice-for-interviews-with-ai.png" width="320" alt="Prepare and Practice for Interviews with AI Certificate"/>
     </td>
   </tr>
 </table>
@@ -317,13 +377,13 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <br/>
 
 <details>
-<summary><strong>Google UX Design Specialization</strong> &nbsp;🎨 6 Courses Completed</summary>
+<summary><strong>Google Prompting Essentials</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
 - **Issued by:** Google via Coursera
-- **Date:** April 22, 2026
-- **Status:** In Progress
-- **Summary:** Professional UX Design specialization covering the complete design process from user research to prototyping. Focuses on user-centered design principles, empathy mapping, wireframing, and usability testing.
+- **Date:** April 25, 2026
+- **Status:** Completed
+- **Summary:** Specialization focused on prompt engineering, AI-powered productivity, and creative applications of AI tools for everyday work tasks.
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View Individual Course Certificates</strong></summary>
@@ -332,90 +392,26 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <table>
   <tr>
     <td align="center" width="50%" valign="top">
-      <strong>Foundations of User<br/>Experience (UX) Design</strong><br/>
-      <sub><a href="https://coursera.org/verify/5ACPWD0XBD3W">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ux-foundations.png" width="320"/>
+      <strong>Start Writing Prompts like a Pro</strong><br/>
+      <sub><a href="https://coursera.org/verify/7D7NHC7BYM89">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-start-writing-prompts-like-a-pro.png" width="320" alt="Start Writing Prompts like a Pro Certificate"/>
     </td>
-    <td align="center" width="50%" valign="top">
-      <strong>Start the UX Design Process:<br/>Empathize, Define, and Ideate</strong><br/>
-      <sub><a href="https://coursera.org/verify/926MG2Z7ZQEE">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ux-empathize-define-ideate.png" width="320"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <strong>Build Wireframes and<br/>Low-Fidelity Prototypes</strong><br/>
-      <sub><a href="https://coursera.org/verify/NXQ2IIME4XM4">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ux-wireframes-prototypes.png" width="320"/>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <strong>Conduct UX Research and<br/>Test Early Concepts</strong><br/>
-      <sub><a href="https://coursera.org/verify/Y4K2LKTMUP5V">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ux-research-test-concepts.png" width="320"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <strong>Build Dynamic User Interfaces<br/>(UI) for Websites</strong><br/>
-      <sub><a href="https://coursera.org/verify/DRQSN9BG2QL2">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-build-dynamic-user-interfaces-ui-for-websites.png" width="320" alt="Build Dynamic User Interfaces (UI) for Websites Certificate"/>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <strong>Design a User Experience for<br/>Social Good & Prepare for Jobs</strong><br/>
-      <sub><a href="https://coursera.org/verify/B7WZ416MKODO">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-design-user-experience-for-social-good-prepare-for-jobs.png" width="320" alt="Design a User Experience for Social Good & Prepare for Jobs Certificate"/>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-</details>
-
-<br/>
-
-<details>
-<summary><strong>AI Prompting & Productivity Courses</strong> &nbsp;✨ 7 Courses Completed</summary>
-<br/>
-
-- **Issued by:** Google via Coursera
-- **Date:** April 2026
-- **Status:** Completed
-- **Summary:** Specialized courses focused on prompt engineering, AI-powered productivity, and creative applications of AI tools.
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View Course Certificates</strong></summary>
-<br/>
-
-<table>
-  <tr>
     <td align="center" width="50%" valign="top">
       <strong>Design Prompts for Everyday Work Tasks</strong><br/>
       <sub><a href="https://coursera.org/verify/Z8XRRMSZD9A9">View Certificate</a></sub><br/><br/>
       <img src="./image/certificate-google-design-prompts-for-everyday-work-tasks.png" width="320" alt="Design Prompts for Everyday Work Tasks Certificate"/>
     </td>
-    <td align="center" width="50%" valign="top">
-      <strong>Start Writing Prompts like a Pro</strong><br/>
-      <sub><a href="https://coursera.org/verify/7D7NHC7BYM89">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-start-writing-prompts-like-a-pro.png" width="320" alt="Start Writing Prompts like a Pro Certificate"/>
-    </td>
   </tr>
   <tr>
+    <td align="center" width="50%" valign="top">
+      <strong>Speed Up Data Analysis and Presentation Building</strong><br/>
+      <sub><a href="https://coursera.org/verify/KEJ60APLHJLC">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-speed-up-data-analysis-and-presentation-building.png" width="320" alt="Speed Up Data Analysis and Presentation Building Certificate"/>
+    </td>
     <td align="center" width="50%" valign="top">
       <strong>Use AI as a Creative or Expert Partner</strong><br/>
-      <sub><a href="https://www.coursera.org/learn/google-use-ai-as-a-creative-or-expert-partner">Course Link</a></sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <strong>Speed Up Data Analysis and<br/>Presentation Building</strong><br/>
-      <sub><a href="https://www.coursera.org/learn/google-speed-up-data-analysis-and-presentation-building">Course Link</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <strong>Prepare and Practice for<br/>Interviews with AI</strong><br/>
-      <sub><a href="https://www.coursera.org/learn/google-prepare-and-practice-for-interviews-with-ai">Course Link</a></sub>
-    </td>
-    <td align="center" width="50%" valign="top">
+      <sub><a href="https://coursera.org/verify/UXU8U2ROLZJ09">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-use-ai-as-a-creative-or-expert-partner.png" width="320" alt="Use AI as a Creative or Expert Partner Certificate"/>
     </td>
   </tr>
 </table>
@@ -427,41 +423,67 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <br/>
 
 <details>
-<summary><strong>AI-Powered Career Development</strong> &nbsp;💼 5 Courses Completed</summary>
+<summary><strong>Google UX Design Professional Certificate</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
 - **Issued by:** Google via Coursera
-- **Date:** April 2026
+- **Date:** April 25, 2026
 - **Status:** Completed
-- **Summary:** Career-focused courses leveraging AI for job search optimization, application management, and skills assessment.
+- **Summary:** Professional certificate covering the complete UX design process from user research to prototyping and job preparation. Focuses on user-centered design principles, empathy mapping, wireframing, prototyping, and usability testing.
+- **Verification:** [View Professional Certificate](https://coursera.org/verify/professional-cert/CO07OPHIC3ER)
+
+<p align="center">
+  <img src="./image/certificate-google-ux-design-professional.png" width="700" alt="Google UX Design Professional Certificate"/>
+</p>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View Course Certificates</strong></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View Individual Course Certificates</strong></summary>
 <br/>
 
 <table>
   <tr>
     <td align="center" width="50%" valign="top">
-      <strong>Plan Your Job Search with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/4KVCJ4AEDZSB">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-plan-your-job-search-with-ai.png" width="320" alt="Plan Your Job Search with AI Certificate"/>
+      <strong>Foundations of User Experience (UX) Design</strong><br/>
+      <sub><a href="https://coursera.org/verify/5ACPWD0XBD3W">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-foundations.png" width="320" alt="Foundations of User Experience (UX) Design Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
-      <strong>Manage Your Job Applications with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/4EEKR5ME6QIY">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-manage-your-job-applications-with-ai.png" width="320" alt="Manage Your Job Applications with AI Certificate"/>
+      <strong>Start the UX Design Process: Empathize, Define, and Ideate</strong><br/>
+      <sub><a href="https://coursera.org/verify/926MG2Z7ZQEE">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-empathize-define-ideate.png" width="320" alt="Start the UX Design Process Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <strong>Uncover Your Transferable Skills with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/BOXPIJ1FTNTO">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-uncover-your-transferable-skills-with-ai.png" width="320" alt="Uncover Your Transferable Skills with AI Certificate"/>
+      <strong>Build Wireframes and Low-Fidelity Prototypes</strong><br/>
+      <sub><a href="https://coursera.org/verify/NXQ2IIME4XM4">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-wireframes-prototypes.png" width="320" alt="Build Wireframes and Low-Fidelity Prototypes Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
-      <strong>Accelerate Your Job Search with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/GYOETDKLO0FO">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-accelerate-your-job-search-with-ai.png" width="320" alt="Accelerate Your Job Search with AI Certificate"/>
+      <strong>Conduct UX Research and Test Early Concepts</strong><br/>
+      <sub><a href="https://coursera.org/verify/Y4K2LKTMUP5V">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-research-test-concepts.png" width="320" alt="Conduct UX Research and Test Early Concepts Certificate"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <strong>Create High-Fidelity Designs and Prototypes in Figma</strong><br/>
+      <sub><a href="https://coursera.org/verify/33K9GDA8MMPT">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-ux-high-fidelity-designs-prototypes-figma.png" width="320" alt="Create High-Fidelity Designs and Prototypes in Figma Certificate"/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <strong>Build Dynamic User Interfaces (UI) for Websites</strong><br/>
+      <sub><a href="https://coursera.org/verify/DRQSN9BG2QL2">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-build-dynamic-user-interfaces-ui-for-websites.png" width="320" alt="Build Dynamic User Interfaces (UI) for Websites Certificate"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <strong>Design a User Experience for Social Good & Prepare for Jobs</strong><br/>
+      <sub><a href="https://coursera.org/verify/B7WZ416MKODO">View Certificate</a></sub><br/><br/>
+      <img src="./image/certificate-google-design-user-experience-for-social-good-prepare-for-jobs.png" width="320" alt="Design a User Experience for Social Good & Prepare for Jobs Certificate"/>
+    </td>
+    <td align="center" width="50%" valign="top">
     </td>
   </tr>
 </table>
@@ -469,6 +491,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 </details>
 
 </details>
+
 
 <br/>
 
@@ -528,6 +551,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
   <img src="./image/gemini-certified-university-student.png" width="700" alt="Gemini Certified University Student Certificate"/>
 </p>
 </details>
+
 
 ---
 
