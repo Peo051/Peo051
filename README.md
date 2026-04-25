@@ -221,7 +221,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
     <td align="center" width="50%" valign="top">
       <strong>Maximize Productivity With AI Tools</strong><br/>
       <sub><a href="https://coursera.org/verify/YLBW8IUHL2AT">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-maximize-productivity-ai-tools.png" width="320" alt="Maximize Productivity With AI Tools Certificate"/>
+      <img src="./image/certificate-google-maximize-productivity-with-ai-tools.png" width="320" alt="Maximize Productivity With AI Tools Certificate"/>
     </td>
   </tr>
   <tr>
@@ -239,7 +239,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
     <td align="center" width="50%" valign="top">
       <strong>Stay Ahead of the AI Curve</strong><br/>
       <sub><a href="https://coursera.org/verify/LAOTVMIOVCJW">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-stay-ahead-ai-curve.png" width="320" alt="Stay Ahead of the AI Curve Certificate"/>
+      <img src="./image/certificate-google-stay-ahead-of-the-ai-curve.png" width="320" alt="Stay Ahead of the AI Curve Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
     </td>
@@ -357,12 +357,12 @@ demonstrating problem-solving ability and optimization-oriented thinking.
     <td align="center" width="50%" valign="top">
       <strong>Build Dynamic User Interfaces<br/>(UI) for Websites</strong><br/>
       <sub><a href="https://coursera.org/verify/DRQSN9BG2QL2">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ux-dynamic-ui-websites.png" width="320" alt="Build Dynamic User Interfaces (UI) for Websites Certificate"/>
+      <img src="./image/certificate-google-build-dynamic-user-interfaces-ui-for-websites.png" width="320" alt="Build Dynamic User Interfaces (UI) for Websites Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Design a User Experience for<br/>Social Good & Prepare for Jobs</strong><br/>
       <sub><a href="https://coursera.org/verify/B7WZ416MKODO">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-ux-social-good-prepare-for-jobs.png" width="320" alt="Design a User Experience for Social Good & Prepare for Jobs Certificate"/>
+      <img src="./image/certificate-google-design-user-experience-for-social-good-prepare-for-jobs.png" width="320" alt="Design a User Experience for Social Good & Prepare for Jobs Certificate"/>
     </td>
   </tr>
 </table>
@@ -391,7 +391,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
     <td align="center" width="50%" valign="top">
       <strong>Design Prompts for Everyday Work Tasks</strong><br/>
       <sub><a href="https://coursera.org/verify/Z8XRRMSZD9A9">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-design-prompts-everyday-work-tasks.png" width="320" alt="Design Prompts for Everyday Work Tasks Certificate"/>
+      <img src="./image/certificate-google-design-prompts-for-everyday-work-tasks.png" width="320" alt="Design Prompts for Everyday Work Tasks Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Start Writing Prompts like a Pro</strong><br/>
@@ -443,24 +443,24 @@ demonstrating problem-solving ability and optimization-oriented thinking.
     <td align="center" width="50%" valign="top">
       <strong>Plan Your Job Search with AI</strong><br/>
       <sub><a href="https://coursera.org/verify/4KVCJ4AEDZSB">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-plan-job-search-ai.png" width="320" alt="Plan Your Job Search with AI Certificate"/>
+      <img src="./image/certificate-google-plan-your-job-search-with-ai.png" width="320" alt="Plan Your Job Search with AI Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Manage Your Job Applications with AI</strong><br/>
       <sub><a href="https://coursera.org/verify/4EEKR5ME6QIY">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-manage-job-applications-ai.png" width="320" alt="Manage Your Job Applications with AI Certificate"/>
+      <img src="./image/certificate-google-manage-your-job-applications-with-ai.png" width="320" alt="Manage Your Job Applications with AI Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Uncover Your Transferable Skills with AI</strong><br/>
       <sub><a href="https://coursera.org/verify/BOXPIJ1FTNTO">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-uncover-transferable-skills-ai.png" width="320" alt="Uncover Your Transferable Skills with AI Certificate"/>
+      <img src="./image/certificate-google-uncover-your-transferable-skills-with-ai.png" width="320" alt="Uncover Your Transferable Skills with AI Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Accelerate Your Job Search with AI</strong><br/>
       <sub><a href="https://coursera.org/verify/GYOETDKLO0FO">View Certificate</a></sub><br/><br/>
-      <img src="./image/certificate-google-accelerate-job-search-ai.png" width="320" alt="Accelerate Your Job Search with AI Certificate"/>
+      <img src="./image/certificate-google-accelerate-your-job-search-with-ai.png" width="320" alt="Accelerate Your Job Search with AI Certificate"/>
     </td>
   </tr>
 </table>
