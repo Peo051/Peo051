@@ -228,6 +228,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
     <td align="center" width="50%" valign="top">
       <strong>Discover the Art of Prompting</strong><br/>
       <sub><a href="https://www.coursera.org/learn/google-discover-the-art-of-prompting">Course Link</a></sub>
+      <img src="./image/certificate-google-discover-the-art-of-prompting.png" width="320" alt="Discover the Art of Prompting Certificate" />
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Use AI Responsibly</strong><br/>
