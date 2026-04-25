@@ -527,29 +527,25 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <br/>
 
 <details>
-<summary><strong>Gemini Certified Educator</strong></summary>
+<summary><strong>Gemini Certified</strong></summary>
 <br/>
 
 - **Status:** Completed
-- **Summary:** Demonstrates practical understanding of Gemini capabilities for educational and learning-support use cases.
+- **Summary:** Demonstrates practical understanding of Gemini capabilities for educational and learning-support use cases, as well as foundational Gemini skills for student workflows including research support, content drafting, and productivity.
 
-<p align="center">
-  <img src="./image/gemini-certified-educator.png" width="700" alt="Gemini Certified Educator Certificate"/>
-</p>
-</details>
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <strong>Gemini Certified Educator</strong><br/><br/>
+      <img src="./image/gemini-certified-educator.png" width="420" alt="Gemini Certified Educator Certificate"/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <strong>Gemini Certified University Student</strong><br/><br/>
+      <img src="./image/gemini-certified-university-student.png" width="420" alt="Gemini Certified University Student Certificate"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<details>
-<summary><strong>Gemini Certified University Student</strong></summary>
-<br/>
-
-- **Status:** Completed
-- **Summary:** Validates foundational Gemini skills for student workflows, including research support, content drafting, and productivity.
-
-<p align="center">
-  <img src="./image/gemini-certified-university-student.png" width="700" alt="Gemini Certified University Student Certificate"/>
-</p>
 </details>
 
 
