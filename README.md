@@ -84,6 +84,19 @@ goal: Become a reliable, impact-driven software engineer
 
 ### 📌 Highlight Projects
 
+#### 💝 [Love Sense AI](https://github.com/Peo051/love-sense-ai) | [Live Demo](https://love-sense-ai.vercel.app)
+**Tech:** Next.js | TypeScript | FastAPI | PostgreSQL | Firebase Auth | OpenAI API | Tailwind CSS
+
+AI-powered web application for analyzing emotional sentiment in romantic conversations with privacy-first design.
+The application provides personalized emotion analysis, OCR support for chat screenshots, and thoughtful response suggestions.
+Built with modern full-stack architecture featuring Next.js App Router frontend, FastAPI backend with async SQLAlchemy,
+Firebase Authentication for secure user management, and PostgreSQL database. Implements comprehensive privacy controls
+including user consent management, data deletion capabilities, and demo mode for unauthenticated users. Features include
+emotion sentiment analysis with confidence scoring, OCR text extraction with AI Vision support, personalized user profiles,
+conversation history tracking, and privacy-focused data handling. The project demonstrates proficiency in building
+production-ready applications with authentication, database design, API development, AI integration, and deployment
+on Vercel (frontend) and Render (backend).
+
 #### ☕ [Coffee_Shop_Management_WPF](https://github.com/Peo051/Coffee_Shop_Management_WPF)
 **Tech:** C# | WPF | .NET | SQL Server (Back-end WPF)
 
