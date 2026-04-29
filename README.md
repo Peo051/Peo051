@@ -43,7 +43,7 @@ goal: Become a reliable, impact-driven software engineer
       with strong fundamentals and a growth mindset.
 ```
 
----
+----
 
 ### 🛠️ Technical Skills
 
