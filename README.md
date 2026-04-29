@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=160&section=header&text=Tr%E1%BA%A7n%20D%C6%B0%C6%A1ng%20Gia%20B%E1%BA%A3o&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20Progress%20%E2%80%94%20HUIT%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=60&descSize=16" width="100%"/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-----------
+-----------
 
 ### 👤 About Me
 
