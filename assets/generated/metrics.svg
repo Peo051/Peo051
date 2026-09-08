@@ -25,7 +25,7 @@
 
   
       <g transform="translate(50 125)">
-        <text class="metric-value" y="0">19</text>
+        <text class="metric-value" y="0">18</text>
         <text class="metric-label" y="32">PUBLIC REPOS</text>
       </g>
       <g transform="translate(325 125)">
@@ -52,7 +52,7 @@
 
   <g transform="translate(680, 235)">
     <text x="0" y="0" class="eyebrow" fill="#A78BFA">CORE LANGUAGES</text>
-    <text x="0" y="36" class="signal">JavaScript (5)  ·  C# (5)  ·  Java (3)</text>
+    <text x="0" y="36" class="signal">JavaScript (5)  ·  C# (4)  ·  Java (3)</text>
     <text x="0" y="70" class="small">Tracked from public repositories</text>
   </g>
 </svg>
