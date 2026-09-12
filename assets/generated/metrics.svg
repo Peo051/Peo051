@@ -46,8 +46,8 @@
   <!-- Lower Details -->
   <g transform="translate(50, 235)">
     <text x="0" y="0" class="eyebrow" fill="#22D3EE">LATEST ACTIVE REPOSITORY</text>
-    <text x="0" y="36" class="signal">Machine-Learning</text>
-    <text x="0" y="70" class="small">Last public push: 10 Sept 2026</text>
+    <text x="0" y="36" class="signal">mobile-application-development</text>
+    <text x="0" y="70" class="small">Last public push: 11 Sept 2026</text>
   </g>
 
   <g transform="translate(680, 235)">
