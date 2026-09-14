@@ -1,53 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=160&section=header&text=Tr%E1%BA%A7n%20D%C6%B0%C6%A1ng%20Gia%20B%E1%BA%A3o&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20Progress%20%E2%80%94%20HUIT%20%7C%20Ho%20Chi%20Minh%20City&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=160&section=header&text=Tr%E1%BA%A7n%20D%C6%B0%C6%A1ng%20Gia%20B%E1%BA%A3o&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%94%20Backend%20%26%20Full-stack%20%7C%20HUIT&descAlignY=60&descSize=16" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Backend+Developer+%7C+.NET+%26+C%23;Clean+Architecture+%7C+RESTful+API+Design;Data+Engineering+%7C+SQL+Server;Continuous+Learner+%7C+Problem+Solver)](https://git.io/typing-svg)
+
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Peo051&color=58A6FF&style=flat-square&label=Profile+Views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Peo051?label=Followers&style=flat-square&color=58A6FF&logo=github)](https://github.com/Peo051?tab=followers)
+
+ 
+
 
 </div>
 
 <br/>
 
------------
+👤 About Me
 
-### 👤 About Me
-
-```yaml
 # Trần Dương Gia Bảo — Software Engineering Student
 
 location    : Ho Chi Minh City, Vietnam
 university  : University of Industry and Trade (HUIT)
 major       : Information Technology — Applied Computing
 email       : tranduonggiabao0501email@gmail.com
+portfolio   : https://peo051.github.io/portfolio/
 
 focus:
-  - Backend development with .NET / ASP.NET Core
-  - Object-Oriented Design & Clean Architecture
-  - Relational databases (SQL Server, T-SQL)
-  - Applied AI & Data Science (exploring)
+  - Backend engineering with .NET / ASP.NET Core
+  - Full-stack development with Next.js / FastAPI
+  - Relational databases & RESTful API design
+  - Applied AI, Computer Vision & Data Mining research
 
 currently:
-  - Building foundational engineering skills through academic projects
-  - Participating in university-level technical competitions
-  - Deepening understanding of system design & software architecture
+  - Building end-to-end applications from UI to API and database
+  - Developing .NET desktop/backend and modern full-stack web projects
+  - Conducting student research in data mining and applied AI
 
-goal: Become a reliable, impact-driven software engineer
-      with strong fundamentals and a growth mindset.
-```
+goal: Grow into a backend-focused full-stack software engineer
+      with strong system design, database, and applied AI foundations.
 
----
+🛠️ Technical Skills
 
-### 🛠️ Technical Skills
+Languages
 
-#### Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -57,24 +53,31 @@ goal: Become a reliable, impact-driven software engineer
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
 
-#### Backend & Frameworks
+Backend & Frameworks
+
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-5C2D91?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
-#### Web
+Full-stack & Web
+
 <p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 </p>
 
-#### Databases & Tools
+Databases & Tools
+
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -85,55 +88,58 @@ goal: Become a reliable, impact-driven software engineer
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
 </p>
 
----
+📌 Highlight Projects
 
-### 📌 Highlight Projects
+🧠 CodeSense AI
 
-#### 💝 [Love Sense AI](https://github.com/Peo051/love-sense-ai) | [Live Demo](https://love-sense-ai.vercel.app)
-**Tech:** Next.js | TypeScript | FastAPI | PostgreSQL | Firebase Auth | OpenAI API | Tailwind CSS
+Tech: Next.js | TypeScript | FastAPI | PostgreSQL | Firebase Auth | LLM APIs | Tailwind CSS
 
-AI-powered web application for analyzing emotional sentiment in romantic conversations with privacy-first design.
-The application provides personalized emotion analysis, OCR support for chat screenshots, and thoughtful response suggestions.
-Built with modern full-stack architecture featuring Next.js App Router frontend, FastAPI backend with async SQLAlchemy,
-Firebase Authentication for secure user management, and PostgreSQL database. Implements comprehensive privacy controls
-including user consent management, data deletion capabilities, and demo mode for unauthenticated users. Features include
-emotion sentiment analysis with confidence scoring, OCR text extraction with AI Vision support, personalized user profiles,
-conversation history tracking, and privacy-focused data handling. The project demonstrates proficiency in building
-production-ready applications with authentication, database design, API development, AI integration, and deployment
-on Vercel (frontend) and Render (backend).
+Adaptive programming tutor for beginner C# OOP students, designed to provide progressive hints and guided reasoning instead of immediately revealing complete solutions.
+The project combines a Next.js frontend with a FastAPI backend, Firebase Authentication, relational data storage, and an LLM-assisted tutoring pipeline for code analysis and step-by-step learning support.
 
-#### ☕ [Coffee_Shop_Management_WPF](https://github.com/Peo051/Coffee_Shop_Management_WPF)
-**Tech:** C# | WPF | .NET | SQL Server (Back-end WPF)
+☕ Coffee_Shop_Management_WPF
 
-Desktop application for coffee shop management built with WPF (Windows Presentation Foundation) and C#.
-This project demonstrates proficiency in building enterprise-level desktop applications with modern UI/UX design,
-MVVM architecture pattern, database integration, and comprehensive business logic implementation for inventory,
-sales, and customer management.
+Tech: C# | .NET 8 | WPF | MVVM | SQL Server | Dapper | ASP.NET Core | PayOS
 
-#### ☕ [Coffee_Shop_Management_WEB](https://github.com/Peo051/Coffee_Shop_Management_Web)
-**Tech:** HTML, CSS, JAVASCRIPT (Front-end Web)
+Desktop coffee shop management system covering point-of-sale workflows, inventory, employees, customers, promotions, shift reconciliation, and revenue reporting.
+The solution uses WPF with MVVM for the desktop client and a separate ASP.NET Core payment API integrating PayOS/VietQR, webhook callbacks, and SQL Server data access through Dapper.
 
-Team project focused on building a coffee chain management website with a modern interface,
-consistent brand identity, and user-centered experience. This project demonstrates the ability to
-develop structured front-end interfaces aligned with practical business requirements.
+🌿 Tri-Nghia-Pharma
 
-#### 🧮 [Calculator](https://github.com/Peo051/Calculator)
-**Tech:** C# | WPF | .NET |
+Tech: React 18 | TypeScript | Vite | Tailwind CSS | Zalo Mini App
 
-Calculator application built with C# to reinforce object-oriented programming fundamentals
-and business-logic design thinking. The project reflects clear code organization and
-maintainability practices for a basic desktop application.
+Zalo Mini App for a pharmaceutical business, built around a responsive product catalog, multi-level filtering, search, persistent shopping cart, promotional content, and direct customer contact flows.
+The project demonstrates practical frontend engineering with React and TypeScript in a mobile-first platform environment.
 
-#### 🚗 [QuanLiBaiDoXe](https://github.com/Peo051/QuanLiBaiDoXe)
-**Tech:** C++
+🤟 YOLOv8_Detect_SignLanguage
 
-Final DSA course project simulating a parking management system in C++.
-It applies data structures and algorithms to process vehicle in/out flows efficiently,
-demonstrating problem-solving ability and optimization-oriented thinking.
+Tech: Python | YOLOv8 | OpenCV
 
----
+Real-time sign language recognition application using a YOLOv8 classification model with webcam inference.
+The application displays top predictions and confidence scores, FPS information, hand-placement guidance, low-confidence warnings, and supports capturing prediction results for later review.
 
-### 🏆 Achievements
+🔬 High-Utility Itemset Mining Research
+
+Tech: Java | Data Mining | HUIM | Algorithm Evaluation
+
+Research-oriented implementations for mining high-utility itemsets on transaction databases containing positive and negative unit profits.
+The work includes algorithm implementation and experimental evaluation across repositories such as HUIMiner, CLHMiner, and FEACP, with a focus on runtime, memory usage, and search-space optimization.
+
+🌐 Personal Portfolio | Live Website
+
+Tech: HTML5 | CSS3 | Vanilla JavaScript | GitHub Pages
+
+Personal portfolio website built as a lightweight single-page application with hash-based routing, responsive design, dark/light themes, bilingual Vietnamese-English content, project showcases, certifications, achievements, and downloadable CV.
+The site is deployed statically through GitHub Pages and serves as the extended presentation layer for my GitHub profile.
+
+☕ Coffee_Shop_Management_Web
+
+Tech: HTML5 | CSS3 | JavaScript | Bootstrap | Firebase Auth | PayOS
+
+Customer-facing coffee ordering web application with responsive product browsing, cart and checkout flows, authentication, and VietQR payment integration.
+This project complements the WPF management system by demonstrating frontend and web-integration experience across the same business domain.
+
+🏆 Achievements
 
 <details>
 <summary><strong>Database Design Challenge — HUIT, AY 2025–2026</strong> &nbsp;🏅 Encouragement Prize</summary>
@@ -201,19 +207,21 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 </p>
 </details>
 
----
-
-### 📜 Certifications
+📜 Certifications
 
 <details>
 <summary><strong>Google AI Professional Certificate</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
-- **Issued by:** Google via Coursera
-- **Date:** April 20, 2026
-- **Status:** Completed
-- **Summary:** Comprehensive professional certificate demonstrating fluency in AI across 7 specialized courses. Built 20+ AI artifacts and developed custom AI solutions. Covers brainstorming, research, communication, content creation, data analysis, and app building with AI tools.
-- **Verification:** [View Certificate](https://coursera.org/verify/professional-cert/9477BZVHLC2N)
+Issued by: Google via Coursera
+
+Date: April 20, 2026
+
+Status: Completed
+
+Summary: Comprehensive professional certificate demonstrating fluency in AI across 7 specialized courses. Built 20+ AI artifacts and developed custom AI solutions. Covers brainstorming, research, communication, content creation, data analysis, and app building with AI tools.
+
+Verification: View Certificate
 
 <p align="center">
   <img src="./image/certificate-google-ai-professional.png" width="700" alt="Google AI Professional Certificate"/>
@@ -281,11 +289,15 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <summary><strong>Google AI Essentials</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
-- **Issued by:** Google via Coursera
-- **Date:** April 24, 2026
-- **Status:** Completed
-- **Summary:** Comprehensive specialization covering AI fundamentals, productivity tools, prompt engineering, responsible AI usage, and staying current with AI developments.
-- **Verification:** [View Specialization Certificate](https://coursera.org/verify/specialization/OA4F9JXTDQV2)
+Issued by: Google via Coursera
+
+Date: April 24, 2026
+
+Status: Completed
+
+Summary: Comprehensive specialization covering AI fundamentals, productivity tools, prompt engineering, responsible AI usage, and staying current with AI developments.
+
+Verification: View Specialization Certificate
 
 <p align="center">
   <img src="./image/certificate-google-ai-essentials-specialization.png" width="700" alt="Google AI Essentials Specialization Certificate"/>
@@ -341,11 +353,15 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <summary><strong>Accelerate Your Job Search with AI</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
-- **Issued by:** Google via Coursera
-- **Date:** April 25, 2026
-- **Status:** Completed
-- **Summary:** Specialization focused on leveraging AI for job search optimization, application management, skills assessment, and interview preparation.
-- **Verification:** [View Specialization Certificate](https://coursera.org/verify/specialization/DM1GGN4MS6QE)
+Issued by: Google via Coursera
+
+Date: April 25, 2026
+
+Status: Completed
+
+Summary: Specialization focused on leveraging AI for job search optimization, application management, skills assessment, and interview preparation.
+
+Verification: View Specialization Certificate
 
 <p align="center">
   <img src="./image/certificate-google-accelerate-your-job-search-with-ai.png" width="700" alt="Accelerate Your Job Search with AI Specialization Certificate"/>
@@ -392,10 +408,13 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <summary><strong>Google Prompting Essentials</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
-- **Issued by:** Google via Coursera
-- **Date:** April 25, 2026
-- **Status:** Completed
-- **Summary:** Specialization focused on prompt engineering, AI-powered productivity, and creative applications of AI tools for everyday work tasks.
+Issued by: Google via Coursera
+
+Date: April 25, 2026
+
+Status: Completed
+
+Summary: Specialization focused on prompt engineering, AI-powered productivity, and creative applications of AI tools for everyday work tasks.
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View Individual Course Certificates</strong></summary>
@@ -438,11 +457,15 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <summary><strong>Google UX Design Professional Certificate</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
-- **Issued by:** Google via Coursera
-- **Date:** April 25, 2026
-- **Status:** Completed
-- **Summary:** Professional certificate covering the complete UX design process from user research to prototyping and job preparation. Focuses on user-centered design principles, empathy mapping, wireframing, prototyping, and usability testing.
-- **Verification:** [View Professional Certificate](https://coursera.org/verify/professional-cert/CO07OPHIC3ER)
+Issued by: Google via Coursera
+
+Date: April 25, 2026
+
+Status: Completed
+
+Summary: Professional certificate covering the complete UX design process from user research to prototyping and job preparation. Focuses on user-centered design principles, empathy mapping, wireframing, prototyping, and usability testing.
+
+Verification: View Professional Certificate
 
 <p align="center">
   <img src="./image/certificate-google-ux-design-professional.png" width="700" alt="Google UX Design Professional Certificate"/>
@@ -504,18 +527,21 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 </details>
 
-
 <br/>
 
 <details>
 <summary><strong>AI Application for Game, Web, and Project Management</strong></summary>
 <br/>
 
-- **Issued by:** Công ty TNHH Lượng Từ Xanh (Green Quantum Company)
-- **Date:** February 4 - 15, 2026
-- **Status:** Completed
-- **Summary:** Completed training program on AI applications in game development, web development, and project management. Practical course focused on integrating AI technologies into real-world software projects.
-- **Location:** Ho Chi Minh City, Vietnam
+Issued by: Công ty TNHH Lượng Từ Xanh (Green Quantum Company)
+
+Date: February 4 - 15, 2026
+
+Status: Completed
+
+Summary: Completed training program on AI applications in game development, web development, and project management. Practical course focused on integrating AI technologies into real-world software projects.
+
+Location: Ho Chi Minh City, Vietnam
 
 <p align="center">
   <img src="./image/certificate-ai-game-web-project-management.png" width="700" alt="AI Application Certificate"/>
@@ -528,8 +554,9 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <summary><strong>Financial Data Analysis and Decision-Making in the Advent of AI</strong></summary>
 <br/>
 
-- **Status:** Completed
-- **Summary:** This certificate shows my basic knowledge of financial data analysis and decision-making in the age of AI.
+Status: Completed
+
+Summary: This certificate shows my basic knowledge of financial data analysis and decision-making in the age of AI.
 
 <p align="center">
   <img src="./image/certificate-financial-data-ai.png" width="700" alt="Financial Data Analysis and Decision-Making in the Advent of AI Certificate"/>
@@ -542,8 +569,9 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 <summary><strong>Gemini Certified</strong></summary>
 <br/>
 
-- **Status:** Completed
-- **Summary:** Demonstrates practical understanding of Gemini capabilities for educational and learning-support use cases, as well as foundational Gemini skills for student workflows including research support, content drafting, and productivity.
+Status: Completed
+
+Summary: Demonstrates practical understanding of Gemini capabilities for educational and learning-support use cases, as well as foundational Gemini skills for student workflows including research support, content drafting, and productivity.
 
 <table>
   <tr>
@@ -560,10 +588,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 </details>
 
-
----
-
-### 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center">
 
@@ -581,9 +606,7 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 </div>
 
----
-
-### 📬 Contact
+📬 Contact
 
 <div align="center">
 
@@ -593,6 +616,10 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 
 <br/><br/>
 
+<a href="https://peo051.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Website-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/trần-dương-gia-bảo-951b10389">
   <img src="https://img.shields.io/badge/LinkedIn-Trần_Dương_Gia_Bảo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
@@ -606,8 +633,6 @@ demonstrating problem-solving ability and optimization-oriented thinking.
 </a>
 
 </div>
-
----
 
 <div align="center">
 
