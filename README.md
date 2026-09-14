@@ -1,155 +1,168 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=160&section=header&text=Tr%E1%BA%A7n%20D%C6%B0%C6%A1ng%20Gia%20B%E1%BA%A3o&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%94%20Backend%20%26%20Full-stack%20%7C%20HUIT&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58A6FF&height=160&section=header&text=Tr%E1%BA%A7n%20D%C6%B0%C6%A1ng%20Gia%20B%E1%BA%A3o&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20Applied%20AI&descAlignY=60&descSize=16" width="100%" alt="Trần Dương Gia Bảo profile banner"/>
 
 <br/>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Backend+Development+%7C+.NET+%26+C%23;Full-stack+Apps+%7C+Next.js+%26+FastAPI;Applied+AI+%7C+Computer+Vision;Algorithms+%26+Research+%7C+HUIT)](https://git.io/typing-svg)
 
 <br/>
 
-
- 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Peo051&color=58A6FF&style=flat-square&label=Profile+Views)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Peo051?label=Followers&style=flat-square&color=58A6FF&logo=github)](https://github.com/Peo051?tab=followers)
 
 </div>
 
 <br/>
 
-👤 About Me
+-----------
 
+### 👤 About Me
+
+```yaml
 # Trần Dương Gia Bảo — Software Engineering Student
 
 location    : Ho Chi Minh City, Vietnam
 university  : University of Industry and Trade (HUIT)
-major       : Information Technology — Applied Computing
+major       : Information Technology
 email       : tranduonggiabao0501email@gmail.com
 portfolio   : https://peo051.github.io/portfolio/
 
 focus:
-  - Backend engineering with .NET / ASP.NET Core
-  - Full-stack development with Next.js / FastAPI
-  - Relational databases & RESTful API design
-  - Applied AI, Computer Vision & Data Mining research
+  - Backend and full-stack development with C# / .NET and ASP.NET Core
+  - REST APIs, relational databases, and WPF / MVVM applications
+  - Applied AI and computer vision with Python, YOLOv8, and OpenCV
+  - Algorithms and research in high-utility itemset mining
 
 currently:
-  - Building end-to-end applications from UI to API and database
-  - Developing .NET desktop/backend and modern full-stack web projects
-  - Conducting student research in data mining and applied AI
+  - Building practical software projects across desktop, web, and AI
+  - Connecting software engineering fundamentals with algorithmic research
+```
 
-goal: Grow into a backend-focused full-stack software engineer
-      with strong system design, database, and applied AI foundations.
+---
 
-🛠️ Technical Skills
+### 🛠️ Technical Skills
 
-Languages
-
+#### Languages
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
 </p>
 
-Backend & Frameworks
-
+#### Backend & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM-5C2D91?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Windows Presentation Foundation"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API"/>
 </p>
 
-Full-stack & Web
-
+#### Web
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-Databases & Tools
+#### Applied AI & Research
+`YOLOv8` `OpenCV` `PyTorch` `Computer Vision` `High-Utility Itemset Mining`
 
+#### Databases & Tools
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
 </p>
 
-📌 Highlight Projects
+---
 
-🧠 CodeSense AI
+### 📌 Highlight Projects
 
-Tech: Next.js | TypeScript | FastAPI | PostgreSQL | Firebase Auth | LLM APIs | Tailwind CSS
+#### 🤖 [CodeSense AI](https://github.com/Peo051/love-sense-ai) | [Live Demo](https://love-sense-ai.vercel.app)
+**Tech:** Next.js | React | TypeScript | Tailwind CSS | FastAPI | SQLAlchemy | PostgreSQL | Firebase Auth
 
-Adaptive programming tutor for beginner C# OOP students, designed to provide progressive hints and guided reasoning instead of immediately revealing complete solutions.
-The project combines a Next.js frontend with a FastAPI backend, Firebase Authentication, relational data storage, and an LLM-assisted tutoring pipeline for code analysis and step-by-step learning support.
+Full-stack adaptive programming tutor for beginner C# OOP students. The current project combines a Next.js frontend
+with a FastAPI backend, persistent learning and session data, Firebase authentication, OCR-assisted code input, and a
+Socratic hint flow that guides students without immediately revealing the solution.
 
-☕ Coffee_Shop_Management_WPF
+#### ☕ [Coffee_Shop_Management_WPF](https://github.com/Peo051/Coffee_Shop_Management_WPF)
+**Tech:** C# | .NET 8 | WPF | MVVM | ASP.NET Core Web API | SQL Server | PayOS / VietQR
 
-Tech: C# | .NET 8 | WPF | MVVM | SQL Server | Dapper | ASP.NET Core | PayOS
+Coffee shop management system covering point-of-sale, inventory, employees, customers, promotions, shifts, and reports.
+The repository includes an MVVM WPF client, an ASP.NET Core payment API, SQL Server access, and PayOS/VietQR payment
+flows with HMAC-SHA256 signature helpers.
 
-Desktop coffee shop management system covering point-of-sale workflows, inventory, employees, customers, promotions, shift reconciliation, and revenue reporting.
-The solution uses WPF with MVVM for the desktop client and a separate ASP.NET Core payment API integrating PayOS/VietQR, webhook callbacks, and SQL Server data access through Dapper.
+#### ☕ [GIBOR Coffee Shop Web](https://github.com/Peo051/Coffee_Shop_Management_Web) | [Live Demo](https://giborcoffee.vercel.app)
+**Tech:** HTML5 | CSS3 | JavaScript | Bootstrap 5.3 | Firebase | Serverless API
 
-🌿 Tri-Nghia-Pharma
+Team e-commerce website for menu browsing, cart and checkout flows, account authentication, loyalty points,
+branch and admin views, and COD/QR payment options. The source includes Firebase authentication and serverless
+PayOS endpoints for payment creation and status lookup.
 
-Tech: React 18 | TypeScript | Vite | Tailwind CSS | Zalo Mini App
+#### 🖐️ [Real-Time Sign Language Recognition](https://github.com/Peo051/YOLOv8_Detect_SignLanguage)
+**Tech:** Python | YOLOv8 | OpenCV | PyTorch
 
-Zalo Mini App for a pharmaceutical business, built around a responsive product catalog, multi-level filtering, search, persistent shopping cart, promotional content, and direct customer contact flows.
-The project demonstrates practical frontend engineering with React and TypeScript in a mobile-first platform environment.
+Webcam-based sign-language digit recognition using Ultralytics YOLOv8 classification. The project includes confidence
+display, image capture, FPS feedback, low-confidence warnings, and scripts for training and evaluation.
 
-🤟 YOLOv8_Detect_SignLanguage
+#### 🔬 High-Utility Itemset Mining Research
+**Repositories:** [HUIMiner](https://github.com/Peo051/HUIMiner) | [CLHMiner](https://github.com/Peo051/CLHMiner) | [FEACP](https://github.com/Peo051/FEACP)
+**Tech:** Java | Utility-list mining | Taxonomy-based mining
 
-Tech: Python | YOLOv8 | OpenCV
+Research implementations for high-utility itemset mining on positive and negative profit transaction databases.
+The repositories explore utility-list construction, transaction-weighted utility pruning, cross-level taxonomy mining,
+and subtree-focused candidate reduction.
 
-Real-time sign language recognition application using a YOLOv8 classification model with webcam inference.
-The application displays top predictions and confidence scores, FPS information, hand-placement guidance, low-confidence warnings, and supports capturing prediction results for later review.
+#### 🌐 [Personal Portfolio](https://peo051.github.io/portfolio/)
+**Tech:** HTML5 | CSS3 | Vanilla JavaScript | GitHub Pages
 
-🔬 High-Utility Itemset Mining Research
+Personal portfolio site with hash-based sections for projects, skills, achievements, certifications, resume, and contact.
 
-Tech: Java | Data Mining | HUIM | Algorithm Evaluation
+#### 📈 [Machine Learning Coursework](https://github.com/Peo051/Machine-Learning)
+**Tech:** Python | R | Jupyter
 
-Research-oriented implementations for mining high-utility itemsets on transaction databases containing positive and negative unit profits.
-The work includes algorithm implementation and experimental evaluation across repositories such as HUIMiner, CLHMiner, and FEACP, with a focus on runtime, memory usage, and search-space optimization.
+Coursework repository containing data-preprocessing and regression exercises implemented in Python and R.
 
-🌐 Personal Portfolio | Live Website
+#### 📱 [Mobile Application Development Coursework](https://github.com/Peo051/mobile-application-development)
+**Tech:** Dart | Flutter
 
-Tech: HTML5 | CSS3 | Vanilla JavaScript | GitHub Pages
+Coursework repository containing Flutter/Dart labs for object-oriented programming and mobile user-interface exercises.
 
-Personal portfolio website built as a lightweight single-page application with hash-based routing, responsive design, dark/light themes, bilingual Vietnamese-English content, project showcases, certifications, achievements, and downloadable CV.
-The site is deployed statically through GitHub Pages and serves as the extended presentation layer for my GitHub profile.
+#### 🧮 [Calculator](https://github.com/Peo051/Calculator)
+**Tech:** C# | WPF | .NET 8 | MVVM
 
-☕ Coffee_Shop_Management_Web
+Windows Calculator-style desktop application with arithmetic operations, history, memory controls, keyboard input,
+and a separated calculator service for the core computation logic.
 
-Tech: HTML5 | CSS3 | JavaScript | Bootstrap | Firebase Auth | PayOS
+#### 🚗 [QuanLiBaiDoXe](https://github.com/Peo051/QuanLiBaiDoXe)
+**Tech:** C++ | Data Structures & Algorithms
 
-Customer-facing coffee ordering web application with responsive product browsing, cart and checkout flows, authentication, and VietQR payment integration.
-This project complements the WPF management system by demonstrating frontend and web-integration experience across the same business domain.
+Course project for a parking-management simulation in C++, with vehicle entry/exit flows and file-based records.
 
-🏆 Achievements
+---
+
+### 🏆 Achievements
 
 <details>
 <summary><strong>Database Design Challenge — HUIT, AY 2025–2026</strong> &nbsp;🏅 Encouragement Prize</summary>
 <br/>
 <p align="center">
-  <img src="./image/database-design-challenge-2025.jpg" width="520"/>
+  <img src="./image/database-design-challenge-2025.jpg" width="520" alt="HUIT Database Design Challenge Encouragement Prize certificate"/>
 </p>
 <p>
-  Competed in an academic database design competition organized by the Faculty of Information Technology,
-  University of Industry and Trade (HUIT). Awarded the Encouragement Prize for design quality and technical implementation.
+  Participated in the academic database design competition organized by the Faculty of Information Technology,
+  University of Industry and Trade (HUIT), and received the Encouragement Prize.
 </p>
 </details>
 
@@ -163,18 +176,17 @@ This project complements the WPF management system by demonstrating frontend and
     <td align="center" width="50%">
       <strong>Rice Pest Classification & Segmentation</strong><br/>
       <sub>YOLO + SAM-ViT</sub><br/><br/>
-      <img src="./image/data-science-huit-yolo-samvit.png" width="360"/>
+      <img src="./image/data-science-huit-yolo-samvit.png" width="360" alt="HUIT Data Science Competition rice pest classification and segmentation project"/>
     </td>
     <td align="center" width="50%">
       <strong>Skin Cancer Classification</strong><br/>
       <sub>Vision Transformer (ViT)</sub><br/><br/>
-      <img src="./image/data-science-huit-vit-skin-cancer.png" width="360"/>
+      <img src="./image/data-science-huit-vit-skin-cancer.png" width="360" alt="HUIT Data Science Competition skin cancer classification project"/>
     </td>
   </tr>
 </table>
 <p>
-  Participated in two applied AI research tracks covering computer vision and medical image classification.
-  Reached the university-level final round.
+  Participated in two university-level final-round tracks covering computer vision and medical image classification.
 </p>
 </details>
 
@@ -187,11 +199,11 @@ This project complements the WPF management system by demonstrating frontend and
   <tr>
     <td align="center" width="50%">
       <strong>Encouragement Prize Certificate</strong><br/><br/>
-      <img src="./image/achievement-research-competition-encouragement-2026.png" width="420"/>
+      <img src="./image/achievement-research-competition-encouragement-2026.png" width="420" alt="HUIT Student Research Competition Encouragement Prize certificate"/>
     </td>
     <td align="center" width="50%">
       <strong>Participation Certificate</strong><br/><br/>
-      <img src="./image/achievement-research-competition-certificate-2026.png" width="420"/>
+      <img src="./image/achievement-research-competition-certificate-2026.png" width="420" alt="HUIT Student Research Competition participation certificate"/>
     </td>
   </tr>
 </table>
@@ -201,27 +213,24 @@ This project complements the WPF management system by demonstrating frontend and
   <strong>Advisors:</strong> ThS. Vũ Văn Vinh, HV. Phạm Tấn Thuận<br/>
   <strong>Date:</strong> April 4, 2026<br/>
   <strong>Source Code:</strong> [HUIMiner](https://github.com/Peo051/HUIMiner) & [CLHMiner](https://github.com/Peo051/CLHMiner)<br/><br/>
-  Participated in the Faculty-level Student Research Competition organized by the Faculty of Information Technology, 
-  University of Industry and Trade (HUIT). Awarded the Encouragement Prize for research quality and innovative approach 
-  in data mining optimization.
+  Participated in the Faculty of Information Technology student research competition at the University of Industry and Trade (HUIT)
+  and received the Encouragement Prize.
 </p>
 </details>
 
-📜 Certifications
+---
+
+### 📜 Certifications
 
 <details>
 <summary><strong>Google AI Professional Certificate</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
-Issued by: Google via Coursera
-
-Date: April 20, 2026
-
-Status: Completed
-
-Summary: Comprehensive professional certificate demonstrating fluency in AI across 7 specialized courses. Built 20+ AI artifacts and developed custom AI solutions. Covers brainstorming, research, communication, content creation, data analysis, and app building with AI tools.
-
-Verification: View Certificate
+- **Issued by:** Google via Coursera
+- **Date:** April 20, 2026
+- **Status:** Completed
+- **Summary:** Professional certificate covering AI fundamentals, research, communication, content creation, data analysis, and app building across seven courses.
+- **Verification:** [View Certificate](https://coursera.org/verify/professional-cert/9477BZVHLC2N)
 
 <p align="center">
   <img src="./image/certificate-google-ai-professional.png" width="700" alt="Google AI Professional Certificate"/>
@@ -289,15 +298,11 @@ Verification: View Certificate
 <summary><strong>Google AI Essentials</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
-Issued by: Google via Coursera
-
-Date: April 24, 2026
-
-Status: Completed
-
-Summary: Comprehensive specialization covering AI fundamentals, productivity tools, prompt engineering, responsible AI usage, and staying current with AI developments.
-
-Verification: View Specialization Certificate
+- **Issued by:** Google via Coursera
+- **Date:** April 24, 2026
+- **Status:** Completed
+- **Summary:** Comprehensive specialization covering AI fundamentals, productivity tools, prompt engineering, responsible AI usage, and staying current with AI developments.
+- **Verification:** [View Specialization Certificate](https://coursera.org/verify/specialization/OA4F9JXTDQV2)
 
 <p align="center">
   <img src="./image/certificate-google-ai-essentials-specialization.png" width="700" alt="Google AI Essentials Specialization Certificate"/>
@@ -353,15 +358,11 @@ Verification: View Specialization Certificate
 <summary><strong>Accelerate Your Job Search with AI</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
-Issued by: Google via Coursera
-
-Date: April 25, 2026
-
-Status: Completed
-
-Summary: Specialization focused on leveraging AI for job search optimization, application management, skills assessment, and interview preparation.
-
-Verification: View Specialization Certificate
+- **Issued by:** Google via Coursera
+- **Date:** April 25, 2026
+- **Status:** Completed
+- **Summary:** Specialization focused on leveraging AI for job search optimization, application management, skills assessment, and interview preparation.
+- **Verification:** [View Specialization Certificate](https://coursera.org/verify/specialization/DM1GGN4MS6QE)
 
 <p align="center">
   <img src="./image/certificate-google-accelerate-your-job-search-with-ai.png" width="700" alt="Accelerate Your Job Search with AI Specialization Certificate"/>
@@ -408,13 +409,10 @@ Verification: View Specialization Certificate
 <summary><strong>Google Prompting Essentials</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
-Issued by: Google via Coursera
-
-Date: April 25, 2026
-
-Status: Completed
-
-Summary: Specialization focused on prompt engineering, AI-powered productivity, and creative applications of AI tools for everyday work tasks.
+- **Issued by:** Google via Coursera
+- **Date:** April 25, 2026
+- **Status:** Completed
+- **Summary:** Specialization focused on prompt engineering, AI-powered productivity, and creative applications of AI tools for everyday work tasks.
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View Individual Course Certificates</strong></summary>
@@ -457,15 +455,11 @@ Summary: Specialization focused on prompt engineering, AI-powered productivity, 
 <summary><strong>Google UX Design Professional Certificate</strong> &nbsp;🎓 Completed</summary>
 <br/>
 
-Issued by: Google via Coursera
-
-Date: April 25, 2026
-
-Status: Completed
-
-Summary: Professional certificate covering the complete UX design process from user research to prototyping and job preparation. Focuses on user-centered design principles, empathy mapping, wireframing, prototyping, and usability testing.
-
-Verification: View Professional Certificate
+- **Issued by:** Google via Coursera
+- **Date:** April 25, 2026
+- **Status:** Completed
+- **Summary:** Professional certificate covering the complete UX design process from user research to prototyping and job preparation. Focuses on user-centered design principles, empathy mapping, wireframing, prototyping, and usability testing.
+- **Verification:** [View Professional Certificate](https://coursera.org/verify/professional-cert/CO07OPHIC3ER)
 
 <p align="center">
   <img src="./image/certificate-google-ux-design-professional.png" width="700" alt="Google UX Design Professional Certificate"/>
@@ -527,21 +521,18 @@ Verification: View Professional Certificate
 
 </details>
 
+
 <br/>
 
 <details>
 <summary><strong>AI Application for Game, Web, and Project Management</strong></summary>
 <br/>
 
-Issued by: Công ty TNHH Lượng Từ Xanh (Green Quantum Company)
-
-Date: February 4 - 15, 2026
-
-Status: Completed
-
-Summary: Completed training program on AI applications in game development, web development, and project management. Practical course focused on integrating AI technologies into real-world software projects.
-
-Location: Ho Chi Minh City, Vietnam
+- **Issued by:** Công ty TNHH Lượng Từ Xanh (Green Quantum Company)
+- **Date:** February 4 - 15, 2026
+- **Status:** Completed
+- **Summary:** Completed training program on AI applications in game development, web development, and project management. Practical course focused on integrating AI technologies into real-world software projects.
+- **Location:** Ho Chi Minh City, Vietnam
 
 <p align="center">
   <img src="./image/certificate-ai-game-web-project-management.png" width="700" alt="AI Application Certificate"/>
@@ -554,9 +545,8 @@ Location: Ho Chi Minh City, Vietnam
 <summary><strong>Financial Data Analysis and Decision-Making in the Advent of AI</strong></summary>
 <br/>
 
-Status: Completed
-
-Summary: This certificate shows my basic knowledge of financial data analysis and decision-making in the age of AI.
+- **Status:** Completed
+- **Summary:** This certificate shows my basic knowledge of financial data analysis and decision-making in the age of AI.
 
 <p align="center">
   <img src="./image/certificate-financial-data-ai.png" width="700" alt="Financial Data Analysis and Decision-Making in the Advent of AI Certificate"/>
@@ -569,9 +559,8 @@ Summary: This certificate shows my basic knowledge of financial data analysis an
 <summary><strong>Gemini Certified</strong></summary>
 <br/>
 
-Status: Completed
-
-Summary: Demonstrates practical understanding of Gemini capabilities for educational and learning-support use cases, as well as foundational Gemini skills for student workflows including research support, content drafting, and productivity.
+- **Status:** Completed
+- **Summary:** Demonstrates practical understanding of Gemini capabilities for educational and learning-support use cases, as well as foundational Gemini skills for student workflows including research support, content drafting, and productivity.
 
 <table>
   <tr>
@@ -588,55 +577,54 @@ Summary: Demonstrates practical understanding of Gemini capabilities for educati
 
 </details>
 
-📊 GitHub Statistics
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peo051&theme=github_dark&v=10" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Peo051&theme=github_dark&v=10" height="160" alt="GitHub profile statistics"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peo051&theme=github_dark&v=10" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Peo051&theme=github_dark&v=10" height="160" alt="Most committed languages on GitHub"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Peo051&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a5c&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&v=10" height="150"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Peo051&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&v=10" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=Peo051&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a5c&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&v=10" height="150" alt="GitHub contribution streak"/>
 
 </div>
 
-📬 Contact
+---
+
+### 📬 Contact
 
 <div align="center">
 
 <a href="mailto:tranduonggiabao0501email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-tranduonggiabao0501email%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-tranduonggiabao0501email%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
+<a href="https://www.linkedin.com/in/peo0501">
+  <img src="https://img.shields.io/badge/LinkedIn-Trần_Dương_Gia_Bảo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
 <a href="https://peo051.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Website-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/trần-dương-gia-bảo-951b10389">
-  <img src="https://img.shields.io/badge/LinkedIn-Trần_Dương_Gia_Bảo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.facebook.com/peo.0501">
-  <img src="https://img.shields.io/badge/Facebook-peo.0501-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-peo051.github.io-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://github.com/Peo051">
-  <img src="https://img.shields.io/badge/GitHub-Peo051-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Peo051-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a3a5c,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a3a5c,100:0d1117&height=100&section=footer" width="100%" alt="Profile footer banner"/>
 
 <sub><i>"First, solve the problem. Then, write the code." — John Johnson</i></sub>
 
