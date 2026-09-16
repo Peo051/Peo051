@@ -135,7 +135,7 @@ currently:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_Web">GIBOR Coffee Shop Web</a></h3>
+      <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_Web">Coffee_Shop_Management_Web</a></h3>
       <p>
         <a href="https://github.com/Peo051/Coffee_Shop_Management_Web"><img src="https://img.shields.io/badge/Repository-Web%20App-181717?style=flat-square&logo=github" alt="Repo"/></a>
         <a href="https://giborcoffee.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
