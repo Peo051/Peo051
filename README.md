@@ -175,7 +175,7 @@ currently:
 
 ### 🏆 Achievements
 
-<details open>
+<details>
 <summary><strong>Database Design Challenge — HUIT, AY 2025–2026</strong> &nbsp;🏅 <em>Encouragement Prize</em></summary>
 <br/>
 <p align="center">
