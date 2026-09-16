@@ -1,21 +1,21 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071014,50:0F2F32,100:0D9488&height=230&section=header&text=Gia%20Bao%20%7C%20Peo051&fontSize=42&fontColor=F1FFFC&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Architecture%20%7C%20Applied%20AI&descAlignY=60&descSize=17" alt="Gia Bao | Peo051 — Software Engineering Student" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06111C,50:0E3558,100:0284C7&height=230&section=header&text=Gia%20Bao%20%7C%20Peo051&fontSize=42&fontColor=F0F9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Architecture%20%7C%20Applied%20AI&descAlignY=60&descSize=17" alt="Gia Bao | Peo051 — Software Engineering Student" />
 </p>
 
 <h1 align="center">Gia Bao | Peo051</h1>
 <p align="center"><strong>Software Engineering Student | Backend Architecture | Applied AI</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2800&pause=900&color=0D9488&center=true&vCenter=true&width=900&lines=Backend+Development+%7C+.NET+8+%26+ASP.NET+Core;Full-Stack+Applications+%7C+Next.js+%26+FastAPI;Applied+AI+%26+Computer+Vision+%7C+YOLOv8+%26+PyTorch;Software+Engineering+Student+%7C+HUIT" alt="Engineering focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2800&pause=900&color=0284C7&center=true&vCenter=true&width=900&lines=Backend+Development+%7C+.NET+8+%26+ASP.NET+Core;Full-Stack+Applications+%7C+Next.js+%26+FastAPI;Applied+AI+%26+Computer+Vision+%7C+YOLOv8+%26+PyTorch;Software+Engineering+Student+%7C+HUIT" alt="Engineering focus" />
 </p>
 
 <p align="center">
-  <a href="mailto:tranduonggiabao0501email@gmail.com"><img src="https://img.shields.io/badge/Email-tranduonggiabao0501email%40gmail.com-071014?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://peo051.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Case_Studies-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/peo0501"><img src="https://img.shields.io/badge/LinkedIn-Gia_Bao-071014?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Peo051&label=Profile%20Views&color=0D9488&style=for-the-badge" alt="Profile views" />
+  <a href="mailto:tranduonggiabao0501email@gmail.com"><img src="https://img.shields.io/badge/Email-tranduonggiabao0501email%40gmail.com-06111C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://peo051.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Case_Studies-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/peo0501"><img src="https://img.shields.io/badge/LinkedIn-Gia_Bao-06111C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Peo051&label=Profile%20Views&color=0284C7&style=for-the-badge" alt="Profile views" />
 </p>
 
 <table align="center">
@@ -594,7 +594,7 @@ currently:
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Peo051&theme=github-dark-blue&hide_border=true&background=071014&stroke=0F2F32&ring=0D9488&fire=FF6C37&currStreakLabel=0D9488&sideLabels=cbd5e1&dates=94a3b8&v=12" height="155" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=Peo051&theme=github-dark-blue&hide_border=true&background=06111C&stroke=0E3558&ring=0284C7&fire=FF6C37&currStreakLabel=0284C7&sideLabels=cbd5e1&dates=94a3b8&v=13" height="155" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -605,19 +605,19 @@ currently:
 <div align="center">
 
 <a href="mailto:tranduonggiabao0501email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-tranduonggiabao0501email%40gmail.com-071014?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-tranduonggiabao0501email%40gmail.com-06111C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
 <a href="https://peo051.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-peo051.github.io-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-peo051.github.io-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/peo0501">
-  <img src="https://img.shields.io/badge/LinkedIn-Gia_Bao-071014?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Gia_Bao-06111C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/Peo051">
-  <img src="https://img.shields.io/badge/GitHub-Peo051-071014?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Peo051-06111C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -628,7 +628,7 @@ currently:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:0F2F32,100:071014&height=100&section=footer" width="100%" alt="Profile footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:0E3558,100:06111C&height=100&section=footer" width="100%" alt="Profile footer"/>
 
 <sub><i>"First, solve the problem. Then, write the code." — John Johnson</i></sub>
 

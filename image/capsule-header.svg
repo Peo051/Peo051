@@ -13,7 +13,7 @@
     </style>
         <defs>
               <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#071014"/><stop offset="50%" stop-color="#0F2F32"/><stop offset="100%" stop-color="#0D9488"/>
+                <stop offset="0%" stop-color="#06111C"/><stop offset="50%" stop-color="#0E3558"/><stop offset="100%" stop-color="#0284C7"/>
               </linearGradient>
             </defs>
         
@@ -43,7 +43,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="text" style="fill:#F1FFFC;" stroke="#none" stroke-width="1" >Gia Bao | Peo051</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="60%" class="desc" style="fill:#F1FFFC;">Software Engineering Student | Enterprise Platforms | Applied AI</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="text" style="fill:#F0F9FF;" stroke="#none" stroke-width="1" >Gia Bao | Peo051</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="60%" class="desc" style="fill:#F0F9FF;">Software Engineering Student | Backend Architecture | Applied AI</text>
       </svg>
     
