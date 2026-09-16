@@ -130,6 +130,17 @@ currently:
       <p>Full-stack adaptive programming tutor for beginner C# OOP students. Combines a Next.js frontend with FastAPI backend, persistent learning and session telemetry, Firebase authentication, OCR-assisted code input, and a Socratic hint engine guiding students systematically.</p>
     </td>
     <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/Peo051/Tri-Nghia-Pharma">Tri Nghia Pharma</a></h3>
+      <p>
+        <a href="https://github.com/Peo051/Tri-Nghia-Pharma"><img src="https://img.shields.io/badge/Repository-Tri%20Nghia%20Pharma-181717?style=flat-square&logo=github" alt="Repo"/></a>
+        <a href="https://github.com/Peo051/Tri-Nghia-Pharma"><img src="https://img.shields.io/badge/Platform-Zalo%20Mini%20App-0068FF?style=flat-square&logo=zalo&logoColor=white" alt="Zalo Mini App"/></a>
+      </p>
+      <p><strong>Tech:</strong> <code>React 18</code> • <code>TypeScript</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Zalo Mini App (ZMP)</code></p>
+      <p>E-commerce and healthcare solutions Mini App deployed on the Zalo platform for Tri Nghia Pharma &amp; Opodis Pharma. Features catalog browsing, product prescription details, real-time cart, and integrated checkout flow.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_WPF">Coffee Shop Management</a></h3>
       <p>
         <a href="https://github.com/Peo051/Coffee_Shop_Management_WPF"><img src="https://img.shields.io/badge/Repository-WPF%20App-181717?style=flat-square&logo=github" alt="Repo"/></a>
@@ -137,8 +148,6 @@ currently:
       <p><strong>Tech:</strong> <code>C#</code> • <code>.NET 8</code> • <code>WPF (MVVM)</code> • <code>ASP.NET Core Web API</code> • <code>SQL Server</code> • <code>PayOS / VietQR</code></p>
       <p>Enterprise desktop POS and management solution handling inventory, employees, customers, promotions, shifts, and reports. Includes an MVVM client, decoupled ASP.NET Core payment API, and PayOS/VietQR payment processing with HMAC-SHA256 signature verification.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_Web">Coffee_Shop_Management_Web</a></h3>
       <p>
@@ -148,6 +157,8 @@ currently:
       <p><strong>Tech:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Bootstrap 5.3</code> • <code>Firebase</code> • <code>Serverless PayOS</code></p>
       <p>E-commerce web platform for menu browsing, cart checkout, account authentication, loyalty reward points, multi-branch & admin views, and integrated VietQR/COD payment flows.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://peo051.github.io/portfolio/">Personal Portfolio Website</a></h3>
       <p>
@@ -156,17 +167,19 @@ currently:
       <p><strong>Tech:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>GitHub Pages</code></p>
       <p>Personal showcase platform highlighting projects, skills, research achievements, verified certifications, interactive resume, and contact channels.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🧮 <a href="https://github.com/Peo051/Calculator">Desktop Calculator</a></h3>
       <p><strong>Tech:</strong> <code>C#</code> • <code>WPF</code> • <code>.NET 8</code> • <code>MVVM</code></p>
       <p>Windows Calculator desktop app with arithmetic calculation logic, calculation history, memory controls, keyboard hotkeys, and clean MVVM architecture.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🚗 <a href="https://github.com/Peo051/QuanLiBaiDoXe">QuanLiBaiDoXe (Parking Management)</a></h3>
       <p><strong>Tech:</strong> <code>C++</code> • <code>Data Structures &amp; Algorithms</code> • <code>File I/O</code></p>
       <p>Parking management system simulation in C++, incorporating vehicle check-in/out logic, slot allocation algorithms, and persistent file-based logging.</p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
