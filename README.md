@@ -144,44 +144,12 @@ currently:
       <p>E-commerce web platform for menu browsing, cart checkout, account authentication, loyalty reward points, multi-branch & admin views, and integrated VietQR/COD payment flows.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🖐️ <a href="https://github.com/Peo051/YOLOv8_Detect_SignLanguage">Sign Language Recognition</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/YOLOv8_Detect_SignLanguage"><img src="https://img.shields.io/badge/Repository-YOLOv8%20CV-181717?style=flat-square&logo=github" alt="Repo"/></a>
-      </p>
-      <p><strong>Tech:</strong> <code>Python</code> • <code>YOLOv8</code> • <code>OpenCV</code> • <code>PyTorch</code> • <code>Computer Vision</code></p>
-      <p>Real-time webcam-based sign language digit recognition leveraging Ultralytics YOLOv8. Features high-speed inference, real-time FPS feedback, live bounding box rendering, confidence score display, and low-confidence warning alerts.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 High-Utility Itemset Mining</h3>
-      <p>
-        <a href="https://github.com/Peo051/HUIMiner"><code>HUIMiner</code></a> • 
-        <a href="https://github.com/Peo051/CLHMiner"><code>CLHMiner</code></a> • 
-        <a href="https://github.com/Peo051/FEACP"><code>FEACP</code></a>
-      </p>
-      <p><strong>Tech:</strong> <code>Java</code> • <code>Utility-list Mining</code> • <code>Taxonomy-based Mining</code> • <code>Algorithms</code></p>
-      <p>Research implementations for high-utility itemset mining on positive and negative profit transaction databases. Focuses on transaction-weighted utility pruning, cross-level taxonomy mining, and search-space candidate reduction.</p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🌐 <a href="https://peo051.github.io/portfolio/">Personal Portfolio Website</a></h3>
       <p>
         <a href="https://peo051.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Site-Visit-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
       </p>
       <p><strong>Tech:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>GitHub Pages</code></p>
       <p>Personal showcase platform highlighting projects, skills, research achievements, verified certifications, interactive resume, and contact channels.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/Peo051/Machine-Learning">Machine Learning Coursework</a></h3>
-      <p><strong>Tech:</strong> <code>Python</code> • <code>R</code> • <code>Jupyter Notebook</code> • <code>Scikit-learn</code></p>
-      <p>Practical coursework repository with data preprocessing, exploratory data analysis, and regression modeling implemented in Python and R.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/Peo051/mobile-application-development">Mobile App Coursework</a></h3>
-      <p><strong>Tech:</strong> <code>Dart</code> • <code>Flutter</code> • <code>Mobile UI</code></p>
-      <p>Collection of Flutter and Dart mobile UI lab exercises, state management experiments, and object-oriented mobile development.</p>
     </td>
   </tr>
   <tr>
