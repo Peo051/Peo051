@@ -110,34 +110,10 @@ Team e-commerce website for menu browsing, cart and checkout flows, account auth
 branch and admin views, and COD/QR payment options. The source includes Firebase authentication and serverless
 PayOS endpoints for payment creation and status lookup.
 
-#### 🖐️ [Real-Time Sign Language Recognition](https://github.com/Peo051/YOLOv8_Detect_SignLanguage)
-**Tech:** Python | YOLOv8 | OpenCV | PyTorch
-
-Webcam-based sign-language digit recognition using Ultralytics YOLOv8 classification. The project includes confidence
-display, image capture, FPS feedback, low-confidence warnings, and scripts for training and evaluation.
-
-#### 🔬 High-Utility Itemset Mining Research
-**Repositories:** [HUIMiner](https://github.com/Peo051/HUIMiner) | [CLHMiner](https://github.com/Peo051/CLHMiner) | [FEACP](https://github.com/Peo051/FEACP)
-**Tech:** Java | Utility-list mining | Taxonomy-based mining
-
-Research implementations for high-utility itemset mining on positive and negative profit transaction databases.
-The repositories explore utility-list construction, transaction-weighted utility pruning, cross-level taxonomy mining,
-and subtree-focused candidate reduction.
-
 #### 🌐 [Personal Portfolio](https://peo051.github.io/portfolio/)
 **Tech:** HTML5 | CSS3 | Vanilla JavaScript | GitHub Pages
 
 Personal portfolio site with hash-based sections for projects, skills, achievements, certifications, resume, and contact.
-
-#### 📈 [Machine Learning Coursework](https://github.com/Peo051/Machine-Learning)
-**Tech:** Python | R | Jupyter
-
-Coursework repository containing data-preprocessing and regression exercises implemented in Python and R.
-
-#### 📱 [Mobile Application Development Coursework](https://github.com/Peo051/mobile-application-development)
-**Tech:** Dart | Flutter
-
-Coursework repository containing Flutter/Dart labs for object-oriented programming and mobile user-interface exercises.
 
 #### 🧮 [Calculator](https://github.com/Peo051/Calculator)
 **Tech:** C# | WPF | .NET 8 | MVVM
