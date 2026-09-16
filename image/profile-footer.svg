@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Profile footer banner">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070c18"/>
+      <stop offset="50%" stop-color="#0a1424"/>
+      <stop offset="100%" stop-color="#08101d"/>
+    </linearGradient>
+
+    <linearGradient id="footerAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+
+    <linearGradient id="lineFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#58A6FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+
+    <style>
+      .quote-text { font: italic 500 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif; fill: #E2E8F0; letter-spacing: 0.3px; }
+      .author-text { font: 600 13px 'JetBrains Mono', Consolas, monospace; fill: #38BDF8; }
+      .copyright-text { font: 500 11.5px 'JetBrains Mono', Consolas, monospace; fill: #64748B; }
+      .pulse-dot { animation: pulseAnim 2.5s ease-in-out infinite; }
+      @keyframes pulseAnim {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 1; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .pulse-dot { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="120" rx="16" fill="url(#footerBg)"/>
+  <rect x="1" y="1" width="1198" height="118" rx="15" fill="none" stroke="#1E293B" stroke-width="1.2"/>
+
+  <!-- Top Accent Glowing Beam -->
+  <line x1="80" y1="1" x2="1120" y2="1" stroke="url(#lineFade)" stroke-width="2"/>
+
+  <!-- Centered Content -->
+  <g transform="translate(600, 50)" text-anchor="middle">
+    <!-- Quote -->
+    <text x="0" y="0" class="quote-text">"First, solve the problem. Then, write the code."</text>
+    <text x="0" y="24" class="author-text">— John Johnson</text>
+    <text x="0" y="52" class="copyright-text">Crafted with precision &amp; dedication • Trần Dương Gia Bảo (Peo051) • HUIT</text>
+  </g>
+
+  <!-- Left / Right Geometric Tech Accents -->
+  <g transform="translate(60, 60)">
+    <circle cx="0" cy="0" r="4" fill="#38BDF8" class="pulse-dot"/>
+    <line x1="12" y1="0" x2="60" y2="0" stroke="#1E3A5F" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(1140, 60)">
+    <circle cx="0" cy="0" r="4" fill="#818CF8" class="pulse-dot"/>
+    <line x1="-12" y1="0" x2="-60" y2="0" stroke="#1E3A5F" stroke-width="1.5"/>
+  </g>
+</svg>
