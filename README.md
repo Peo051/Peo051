@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06111C,50:0E3558,100:0284C7&height=230&section=header&text=Gia%20Bao%20%7C%20Peo051&fontSize=42&fontColor=F0F9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Architecture%20%7C%20Applied%20AI&descAlignY=60&descSize=17" alt="Gia Bao | Peo051 — Software Engineering Student" />
 </p>
 
-<h1 align="center">Gia Bao | Peo051</h1>
-<p align="center"><strong>Software Engineering Student | Backend Architecture | Applied AI</strong></p>
+<h1 align="center">Trần Dương Gia Bảo | Peo051</h1>
+<p align="center"><strong>Sinh viên Kỹ thuật Phần mềm | Kiến trúc Backend | Trí tuệ Nhân tạo Ứng dụng</strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2800&pause=900&color=0284C7&center=true&vCenter=true&width=900&lines=Backend+Development+%7C+.NET+8+%26+ASP.NET+Core;Full-Stack+Applications+%7C+Next.js+%26+FastAPI;Applied+AI+%26+Computer+Vision+%7C+YOLOv8+%26+PyTorch;Software+Engineering+Student+%7C+HUIT" alt="Engineering focus" />
@@ -20,38 +20,26 @@
 
 <table align="center">
   <tr>
-    <td align="center"><strong>Role</strong><br/>Software Engineering</td>
-    <td align="center"><strong>Focus</strong><br/>Backend &amp; Applied AI</td>
-    <td align="center"><strong>Architecture</strong><br/>Frontend · Backend · Systems</td>
-    <td align="center"><strong>Academic Track</strong><br/>IT Student at HUIT</td>
+    <td align="center"><strong>Vai trò</strong><br/>Kỹ thuật Phần mềm</td>
+    <td align="center"><strong>Trọng tâm</strong><br/>Backend &amp; Trí tuệ nhân tạo</td>
+    <td align="center"><strong>Kiến trúc</strong><br/>Frontend · Backend · Hệ thống</td>
+    <td align="center"><strong>Học vấn</strong><br/>Sinh viên CNTT tại HUIT</td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Language Switcher Bar -->
 <p align="center">
-  <a href="#tieng-viet"><img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-0284C7?style=for-the-badge" alt="Tiếng Việt"/></a>
+  <a href="https://github.com/Peo051"><img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-0284C7?style=for-the-badge" alt="Tiếng Việt"/></a>
   &nbsp;
-  <a href="#english"><img src="https://img.shields.io/badge/🇬🇧_English-06111C?style=for-the-badge" alt="English"/></a>
+  <a href="https://github.com/Peo051/Peo051/blob/main/README.en.md"><img src="https://img.shields.io/badge/🇬🇧_English-06111C?style=for-the-badge" alt="English"/></a>
   &nbsp;
-  <a href="#chinese"><img src="https://img.shields.io/badge/🇨🇳_中文-06111C?style=for-the-badge" alt="中文"/></a>
-</p>
-
-<p align="center">
-  <sub>🌐 Standalone files: <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.en.md">English</a> · <a href="./README.zh.md">中文</a></sub>
+  <a href="https://github.com/Peo051/Peo051/blob/main/README.zh.md"><img src="https://img.shields.io/badge/🇨🇳_中文-06111C?style=for-the-badge" alt="中文"/></a>
 </p>
 
 ---
 
-<a id="tieng-viet"></a>
-## 🇻🇳 Tiếng Việt
-
-<p align="right">
-  <sub>Chuyển sang: <a href="#english">🇬🇧 English</a> · <a href="#chinese">🇨🇳 中文</a> · <a href="#top">▲ Lên đầu trang</a></sub>
-</p>
-
-### 👤 Giới thiệu
+### 👤 Giới thiệu bản thân
 
 ```yaml
 # Trần Dương Gia Bảo — Sinh viên Kỹ thuật Phần mềm
@@ -72,6 +60,8 @@ hiện tại:
   - Xây dựng các dự án thực tế qua Desktop, Web và nền tảng AI
   - Kết nối nền tảng kỹ thuật phần mềm vững chắc với nghiên cứu giải thuật
 ```
+
+---
 
 ### 🛠️ Kỹ năng chuyên môn
 
@@ -120,7 +110,7 @@ hiện tại:
   <img src="https://img.shields.io/badge/PayOS%20%2F%20VietQR-0052CC?style=flat-square&logo=contactlesspayment&logoColor=white" alt="PayOS / VietQR"/>
 </p>
 
-#### 🛠️ Công cụ phát triển
+#### 🛠️ Công cụ & Môi trường phát triển
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -204,454 +194,134 @@ hiện tại:
 
 ---
 
-<a id="english"></a>
-## 🇬🇧 English
-
-<p align="right">
-  <sub>Switch to: <a href="#tieng-viet">🇻🇳 Tiếng Việt</a> · <a href="#chinese">🇨🇳 中文</a> · <a href="#top">▲ Back to top</a></sub>
-</p>
-
-### 👤 About Me
-
-```yaml
-# Tran Duong Gia Bao — Software Engineering Student
-
-location    : Ho Chi Minh City, Vietnam
-university  : University of Industry and Trade (HUIT)
-major       : Information Technology
-email       : tranduonggiabao0501email@gmail.com
-portfolio   : https://peo051.github.io/portfolio/
-
-focus:
-  - Backend and full-stack development with C# / .NET 8 and ASP.NET Core
-  - RESTful APIs, relational database design, and WPF / MVVM applications
-  - Applied AI and computer vision with Python, YOLOv8, OpenCV, and PyTorch
-  - Algorithms and research in high-utility itemset mining (HUIM)
-
-currently:
-  - Building practical software projects across desktop, web, and AI
-  - Connecting software engineering fundamentals with algorithmic research
-```
-
-### 🛠️ Technical Skills
-
-<div align="left">
-
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-#### ⚙️ Backend & Architecture
-<p>
-  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/WPF%20%2F%20MVVM-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF / MVVM"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API"/>
-</p>
-
-#### 🧠 Applied Artificial Intelligence & Research
-<p>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=opencv&logoColor=black" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-38BDF8?style=flat-square&logo=tensorflow&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Vision%20Transformer%20(ViT)-818CF8?style=flat-square" alt="ViT"/>
-  <img src="https://img.shields.io/badge/High--Utility%20Itemset%20Mining-A78BFA?style=flat-square" alt="HUIM"/>
-</p>
-
-#### 🗄️ Databases & Cloud Services
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/PayOS%20%2F%20VietQR-0052CC?style=flat-square&logo=contactlesspayment&logoColor=white" alt="PayOS / VietQR"/>
-</p>
-
-#### 🛠️ Developer Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-</div>
-
----
-
-### 📌 Highlight Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Peo051/love-sense-ai">CodeSense AI</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/love-sense-ai"><img src="https://img.shields.io/badge/Repository-CodeSense%20AI-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://love-sense-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
-      </p>
-      <p><strong>Tech:</strong> <code>Next.js</code> • <code>FastAPI</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Firebase Auth</code> • <code>Tailwind CSS</code></p>
-      <p>Full-stack adaptive programming tutor for beginner C# OOP students. Combines a Next.js frontend with FastAPI backend, persistent learning and session telemetry, Firebase authentication, OCR code input, and a Socratic hint engine.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 <a href="https://github.com/Peo051/Tri-Nghia-Pharma">Tri Nghia Pharma</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Tri-Nghia-Pharma"><img src="https://img.shields.io/badge/Repository-Tri%20Nghia%20Pharma-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://github.com/Peo051/Tri-Nghia-Pharma"><img src="https://img.shields.io/badge/Platform-Zalo%20Mini%20App-0068FF?style=flat-square&logo=zalo&logoColor=white" alt="Zalo Mini App"/></a>
-      </p>
-      <p><strong>Tech:</strong> <code>React 18</code> • <code>TypeScript</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Zalo Mini App (ZMP)</code></p>
-      <p>Pharmaceutical e-commerce and healthcare Mini App deployed on the Zalo platform for Tri Nghia Pharma &amp; Opodis Pharma. Features catalog browsing, product prescription details, real-time cart, and integrated VietQR payment.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_WPF">Coffee Shop Management (WPF)</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Coffee_Shop_Management_WPF"><img src="https://img.shields.io/badge/Repository-WPF%20App-181717?style=flat-square&logo=github" alt="Repo"/></a>
-      </p>
-      <p><strong>Tech:</strong> <code>C#</code> • <code>.NET 8</code> • <code>WPF (MVVM)</code> • <code>ASP.NET Core Web API</code> • <code>SQL Server</code> • <code>PayOS / VietQR</code></p>
-      <p>Enterprise desktop POS and management solution handling inventory, employees, customers, promotions, shifts, and reports. Includes an MVVM client, decoupled ASP.NET Core payment API, and HMAC-SHA256 signature verification.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_Web">Coffee_Shop_Management_Web</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Coffee_Shop_Management_Web"><img src="https://img.shields.io/badge/Repository-Web%20App-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://giborcoffee.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
-      </p>
-      <p><strong>Tech:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Bootstrap 5.3</code> • <code>Firebase</code> • <code>Serverless PayOS</code></p>
-      <p>E-commerce web platform for menu browsing, cart checkout, account authentication, loyalty reward points, multi-branch &amp; admin views, and integrated VietQR/COD payment flows.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://peo051.github.io/portfolio/">Personal Portfolio Website</a></h3>
-      <p>
-        <a href="https://peo051.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Site-Visit-0284C7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-      </p>
-      <p><strong>Tech:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>GitHub Pages</code></p>
-      <p>Personal showcase platform highlighting projects, technical skills, scientific research achievements, verified certifications, interactive resume, and contact channels.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧮 <a href="https://github.com/Peo051/Calculator">Desktop Calculator</a></h3>
-      <p><strong>Tech:</strong> <code>C#</code> • <code>WPF</code> • <code>.NET 8</code> • <code>MVVM</code></p>
-      <p>Windows Calculator desktop app with arithmetic calculation logic, calculation history, memory controls, keyboard hotkeys, and clean MVVM architecture.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/Peo051/QuanLiBaiDoXe">QuanLiBaiDoXe (Parking Management)</a></h3>
-      <p><strong>Tech:</strong> <code>C++</code> • <code>Data Structures &amp; Algorithms</code> • <code>File I/O</code></p>
-      <p>Parking management simulation in C++, incorporating vehicle check-in/out logic, slot allocation algorithms, and persistent file-based logging.</p>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
-</table>
-
----
-
-<a id="chinese"></a>
-## 🇨🇳 中文
-
-<p align="right">
-  <sub>切换语言: <a href="#tieng-viet">🇻🇳 越南语 (Tiếng Việt)</a> · <a href="#english">🇬🇧 英语 (English)</a> · <a href="#top">▲ 回到顶部</a></sub>
-</p>
-
-### 👤 关于我
-
-```yaml
-# 陈阳嘉宝 (Tran Duong Gia Bao) — 软件工程专业学生
-
-所在地      : 越南 胡志明市 (Ho Chi Minh City, Vietnam)
-大学        : 胡志明市工业与贸易大学 (HUIT)
-专业        : 信息技术 (Information Technology)
-邮箱        : tranduonggiabao0501email@gmail.com
-个人主页    : https://peo051.github.io/portfolio/
-
-核心方向:
-  - 基于 C# / .NET 8 和 ASP.NET Core 的后端与全栈系统开发
-  - RESTful API 架构、关系型数据库设计与 WPF / MVVM 桌面应用程序
-  - 基于 Python、YOLOv8 与 OpenCV 的应用人工智能与计算机视觉 (AI & CV)
-  - 高效用项集挖掘 (High-Utility Itemset Mining) 数据挖掘算法研究
-
-目前状态:
-  - 积极打造涵盖桌面端、Web端与AI的生产级实战项目
-  - 坚持将扎实的软件工程基础与前沿算法研究深度融合
-```
-
-### 🛠️ 专业技能
-
-<div align="left">
-
-#### 💻 编程语言
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-#### ⚙️ 后端与系统架构
-<p>
-  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/WPF%20%2F%20MVVM-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF / MVVM"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API"/>
-</p>
-
-#### 🧠 人工智能与前沿研究
-<p>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=opencv&logoColor=black" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/计算机视觉%20(CV)-38BDF8?style=flat-square&logo=tensorflow&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Vision%20Transformer%20(ViT)-818CF8?style=flat-square" alt="ViT"/>
-  <img src="https://img.shields.io/badge/High--Utility%20Itemset%20Mining-A78BFA?style=flat-square" alt="HUIM"/>
-</p>
-
-#### 🗄️ 数据库与云原生服务
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/PayOS%20%2F%20VietQR-0052CC?style=flat-square&logo=contactlesspayment&logoColor=white" alt="PayOS / VietQR"/>
-</p>
-
-#### 🛠️ 开发与协作工具
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-</div>
-
----
-
-### 📌 重点项目
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Peo051/love-sense-ai">CodeSense AI (自适应编程导师)</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/love-sense-ai"><img src="https://img.shields.io/badge/Repository-CodeSense%20AI-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://love-sense-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
-      </p>
-      <p><strong>技术栈:</strong> <code>Next.js</code> • <code>FastAPI</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Firebase Auth</code> • <code>Tailwind CSS</code></p>
-      <p>面向 C# OOP 初学者的全栈自适应编程辅助教学平台。集成 Next.js 前端与 FastAPI 后端，支持持久化会话数据、Firebase 鉴权、OCR 代码识别与苏格拉底式渐进引导算法。</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 <a href="https://github.com/Peo051/Tri-Nghia-Pharma">Tri Nghia Pharma (医药小程序)</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Tri-Nghia-Pharma"><img src="https://img.shields.io/badge/Repository-Tri%20Nghia%20Pharma-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://github.com/Peo051/Tri-Nghia-Pharma"><img src="https://img.shields.io/badge/Platform-Zalo%20Mini%20App-0068FF?style=flat-square&logo=zalo&logoColor=white" alt="Zalo Mini App"/></a>
-      </p>
-      <p><strong>技术栈:</strong> <code>React 18</code> • <code>TypeScript</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Zalo Mini App (ZMP)</code></p>
-      <p>运行于 Zalo 平台的医药电商与健康服务小程序，服务于 Trí Nghĩa Pharma 与 Opodis Pharma。支持药品分类导航、处方详情查看、实时购物车与 VietQR 支付。</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_WPF">Coffee Shop Management (WPF POS)</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Coffee_Shop_Management_WPF"><img src="https://img.shields.io/badge/Repository-WPF%20App-181717?style=flat-square&logo=github" alt="Repo"/></a>
-      </p>
-      <p><strong>技术栈:</strong> <code>C#</code> • <code>.NET 8</code> • <code>WPF (MVVM)</code> • <code>ASP.NET Core Web API</code> • <code>SQL Server</code> • <code>PayOS / VietQR</code></p>
-      <p>企业级咖啡门店桌面端 POS 与综合运营系统：进销存、员工排班、客户积分及财务报表。采用 MVVM 架构配合解耦的 ASP.NET Core 支付 API 与 HMAC-SHA256 签名校验。</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_Web">Coffee_Shop_Management_Web</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Coffee_Shop_Management_Web"><img src="https://img.shields.io/badge/Repository-Web%20App-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://giborcoffee.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
-      </p>
-      <p><strong>技术栈:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Bootstrap 5.3</code> • <code>Firebase</code> • <code>Serverless PayOS</code></p>
-      <p>在线咖啡点单与电商网站：支持商品浏览、购物车结算、会员账号体系、分店管理与 VietQR / 货到付款支付流程。</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://peo051.github.io/portfolio/">个人在线作品集网站</a></h3>
-      <p>
-        <a href="https://peo051.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Site-Visit-0284C7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-      </p>
-      <p><strong>技术栈:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>GitHub Pages</code></p>
-      <p>响应式个人门户主页，动态展示代表性项目、专业技能树、科研成果、权威证书与即时联络通道。</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧮 <a href="https://github.com/Peo051/Calculator">经典风格桌面计算器</a></h3>
-      <p><strong>技术栈:</strong> <code>C#</code> • <code>WPF</code> • <code>.NET 8</code> • <code>MVVM</code></p>
-      <p>仿 Windows 风格桌面计算器，涵盖四则运算、历史记录留存、内存暂存按键、键盘快捷响应与清晰的 MVVM 架构分层。</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/Peo051/QuanLiBaiDoXe">智能停车场管理系统模拟</a></h3>
-      <p><strong>技术栈:</strong> <code>C++</code> • <code>数据结构与算法</code> • <code>文件 I/O</code></p>
-      <p>基于 C++ 的停车场出入库调度与管理模拟系统，应用经典数据结构实现车流调控、车位智能分配算法与持久化日志管理。</p>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Thành tích / Achievements / 荣誉与竞赛
+### 🏆 Thành tích nổi bật
 
 <details>
-<summary><strong>Database Design Challenge — HUIT, AY 2025–2026</strong> &nbsp;🏅 <em>Encouragement Prize (Giải Khuyến khích)</em></summary>
+<summary><strong>Database Design Challenge — HUIT, Năm học 2025–2026</strong> &nbsp;🏅 <em>Giải Khuyến khích</em></summary>
 <br/>
 <p align="center">
-  <img src="./image/database-design-challenge-2025.jpg" width="540" alt="HUIT Database Design Challenge Encouragement Prize certificate"/>
+  <img src="./image/database-design-challenge-2025.jpg" width="540" alt="Giấy khen Giải Khuyến khích cuộc thi Database Design Challenge"/>
 </p>
 <p align="center">
-  <em>Participated in the academic database design competition organized by the Faculty of Information Technology, University of Industry and Trade (HUIT), and awarded the Encouragement Prize.</em>
+  <em>Tham gia cuộc thi học thuật thiết kế cơ sở dữ liệu do Khoa Công nghệ Thông tin, Trường Đại học Công Thương TP.HCM (HUIT) tổ chức và xuất sắc đạt Giải Khuyến khích.</em>
 </p>
 </details>
 
 <br/>
 
 <details>
-<summary><strong>Data Science Competition — University Level (Final Round)</strong> &nbsp;🔬 <em>Finalist Track (Vòng Chung kết)</em></summary>
+<summary><strong>Cuộc thi Data Science cấp Trường — Vòng Chung kết</strong> &nbsp;🔬 <em>Chung kết bảng đấu</em></summary>
 <br/>
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <strong>Rice Pest Classification &amp; Segmentation</strong><br/>
+      <strong>Phân loại &amp; Phân đoạn Sâu bệnh Lúa</strong><br/>
       <sub>YOLO + SAM-ViT</sub><br/><br/>
-      <img src="./image/data-science-huit-yolo-samvit.png" width="360" alt="HUIT Data Science Competition rice pest classification and segmentation project"/>
+      <img src="./image/data-science-huit-yolo-samvit.png" width="360" alt="Dự án nhận diện sâu bệnh lúa HUIT Data Science"/>
     </td>
     <td align="center" width="50%">
-      <strong>Skin Cancer Classification</strong><br/>
+      <strong>Phân loại Ung thư Da</strong><br/>
       <sub>Vision Transformer (ViT)</sub><br/><br/>
-      <img src="./image/data-science-huit-vit-skin-cancer.png" width="360" alt="HUIT Data Science Competition skin cancer classification project"/>
+      <img src="./image/data-science-huit-vit-skin-cancer.png" width="360" alt="Dự án phân loại ung thư da HUIT Data Science"/>
     </td>
   </tr>
 </table>
 <p align="center">
-  <em>Competed in two university-level final-round research tracks covering computer vision, object segmentation, and deep learning medical image classification.</em>
+  <em>Tham gia vòng chung kết cuộc thi Khoa học Dữ liệu cấp Trường ở 2 đề tài chuyên sâu về thị giác máy tính và phân loại hình ảnh y khoa.</em>
 </p>
 </details>
 
 <br/>
 
 <details>
-<summary><strong>Student Research Competition — HUIT, AY 2025–2026</strong> &nbsp;🏅 <em>Encouragement Prize (Nghiên cứu khoa học)</em></summary>
+<summary><strong>Cuộc thi Nghiên cứu Khoa học Sinh viên — HUIT, Năm học 2025–2026</strong> &nbsp;🏅 <em>Giải Khuyến khích</em></summary>
 <br/>
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <strong>Encouragement Prize Certificate</strong><br/><br/>
-      <img src="./image/achievement-research-competition-encouragement-2026.png" width="420" alt="HUIT Student Research Competition Encouragement Prize certificate"/>
+      <strong>Giấy khen Giải Khuyến khích NCKH</strong><br/><br/>
+      <img src="./image/achievement-research-competition-encouragement-2026.png" width="420" alt="Giấy khen Giải Khuyến khích NCKH HUIT"/>
     </td>
     <td align="center" width="50%">
-      <strong>Participation Certificate</strong><br/><br/>
-      <img src="./image/achievement-research-competition-certificate-2026.png" width="420" alt="HUIT Student Research Competition participation certificate"/>
+      <strong>Giấy chứng nhận Tham gia NCKH</strong><br/><br/>
+      <img src="./image/achievement-research-competition-certificate-2026.png" width="420" alt="Giấy chứng nhận tham gia NCKH HUIT"/>
     </td>
   </tr>
 </table>
 
-- **Topic / Đề tài:** *"Optimizing Time in Mining High Utility Itemsets on Positive and Negative Profit Transaction Databases"*
-- **Team / Nhóm tác giả:** Trần Dương Gia Bảo, Trần Gia Bảo
-- **Advisors / GVHD:** ThS. Vũ Văn Vinh, HV. Phạm Tấn Thuận
-- **Date / Ngày nghiệm thu:** April 4, 2026
-- **Source Code / Mã nguồn:** [`HUIMiner`](https://github.com/Peo051/HUIMiner) &amp; [`CLHMiner`](https://github.com/Peo051/CLHMiner)
+- **Đề tài:** *"Tối ưu hóa thời gian khai phá tập mục hữu ích cao trên cơ sở dữ liệu giao dịch có giá trị lợi nhuận dương và âm"*
+- **Nhóm nghiên cứu:** Trần Dương Gia Bảo, Trần Gia Bảo
+- **Cán bộ hướng dẫn:** ThS. Vũ Văn Vinh, HV. Phạm Tấn Thuận
+- **Thời gian:** 04/04/2026
+- **Mã nguồn:** [`HUIMiner`](https://github.com/Peo051/HUIMiner) &amp; [`CLHMiner`](https://github.com/Peo051/CLHMiner)
 
 <p align="center">
-  <em>Conducted scientific research and presented findings in the Faculty of Information Technology Student Research Conference at HUIT, receiving the Encouragement Prize.</em>
+  <em>Thực hiện đề tài nghiên cứu khoa học sinh viên tại Khoa Công nghệ Thông tin, Đại học Công Thương TP.HCM và đạt Giải Khuyến khích.</em>
 </p>
 </details>
 
 ---
 
-### 📜 Chứng chỉ chuyên môn / Certifications / 专业认证
+### 📜 Chứng chỉ chuyên môn
 
 <details>
-<summary>🎓 <strong>Google AI Professional Certificate</strong> &nbsp;(Completed)</summary>
+<summary>🎓 <strong>Google AI Professional Certificate</strong> &nbsp;(Đã hoàn thành)</summary>
 <br/>
 
-- **Issuer:** Google via Coursera
-- **Issued Date:** April 20, 2026
-- **Credential:** [Verify Professional Certificate](https://coursera.org/verify/professional-cert/9477BZVHLC2N)
-- **Overview:** Professional certificate covering AI fundamentals, prompt strategies, research insights, content generation, data analysis, and AI application architecture across 7 specialized courses.
+- **Tổ chức cấp:** Google qua Coursera
+- **Ngày cấp:** 20/04/2026
+- **Xác thực:** [Verify Professional Certificate](https://coursera.org/verify/professional-cert/9477BZVHLC2N)
+- **Tổng quan:** Chứng chỉ chuyên nghiệp bao quát nguyên lý AI nền tảng, kỹ thuật thiết kế câu lệnh (Prompting), trích xuất thông tin nghiên cứu, sáng tạo nội dung, phân tích dữ liệu và kiến trúc ứng dụng AI qua chuỗi 7 khóa học chuyên sâu.
 
 <p align="center">
   <img src="./image/certificate-google-ai-professional.png" width="680" alt="Google AI Professional Certificate"/>
 </p>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View 7 Course Certificates</strong></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>Xem 7 chứng chỉ thành phần</strong></summary>
 <br/>
 
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>AI Fundamentals</strong><br/>
-      <sub><a href="https://coursera.org/verify/LBBNAFKH73YU">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/LBBNAFKH73YU">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ai-fundamentals.png" width="320" alt="AI Fundamentals Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>AI for Brainstorming and Planning</strong><br/>
-      <sub><a href="https://coursera.org/verify/CXD4JWUUX6R1">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/CXD4JWUUX6R1">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ai-brainstorming-planning.png" width="320" alt="AI for Brainstorming and Planning Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>AI for Research and Insights</strong><br/>
-      <sub><a href="https://coursera.org/verify/82WE4I9VAFZ4">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/82WE4I9VAFZ4">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ai-research-insights.png" width="320" alt="AI for Research and Insights Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>AI for Writing and Communicating</strong><br/>
-      <sub><a href="https://coursera.org/verify/O1LLZPBZJDZO">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/O1LLZPBZJDZO">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ai-writing-communicating.png" width="320" alt="AI for Writing and Communicating Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>AI for Content Creation</strong><br/>
-      <sub><a href="https://coursera.org/verify/98M51OJHX14HM">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/98M51OJHX14HM">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ai-content-creation.png" width="320" alt="AI for Content Creation Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>AI for Data Analysis</strong><br/>
-      <sub><a href="https://coursera.org/verify/0LYMLZ14PN2X">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/0LYMLZ14PN2X">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ai-data-analysis.png" width="320" alt="AI for Data Analysis Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>AI for App Building</strong><br/>
-      <sub><a href="https://coursera.org/verify/KCQVVQXQVQXQ">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/KCQVVQXQVQXQ">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ai-for-app-building.png" width="320" alt="AI for App Building Certificate"/>
     </td>
     <td align="center" width="50%" valign="top"></td>
@@ -664,51 +334,51 @@ currently:
 <br/>
 
 <details>
-<summary>🎓 <strong>Google AI Essentials Specialization</strong> &nbsp;(Completed)</summary>
+<summary>🎓 <strong>Google AI Essentials Specialization</strong> &nbsp;(Đã hoàn thành)</summary>
 <br/>
 
-- **Issuer:** Google via Coursera
-- **Issued Date:** April 24, 2026
-- **Credential:** [Verify Specialization](https://coursera.org/verify/specialization/OA4F9JXTDQV2)
-- **Overview:** Specialization establishing practical foundational competence with generative AI, productivity workflows, prompt engineering, and responsible AI practices.
+- **Tổ chức cấp:** Google qua Coursera
+- **Ngày cấp:** 24/04/2026
+- **Xác thực:** [Verify Specialization](https://coursera.org/verify/specialization/OA4F9JXTDQV2)
+- **Tổng quan:** Chuyên đề thiết lập nền tảng kỹ năng thực tiễn về Generative AI, tối ưu hóa hiệu suất quy trình làm việc, kỹ thuật đặt prompt và các nguyên tắc phát triển AI có trách nhiệm.
 
 <p align="center">
   <img src="./image/certificate-google-ai-essentials-specialization.png" width="680" alt="Google AI Essentials Specialization Certificate"/>
 </p>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View 5 Course Certificates</strong></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>Xem 5 chứng chỉ thành phần</strong></summary>
 <br/>
 
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Introduction to AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/GGGCSVFYV6Z7">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/GGGCSVFYV6Z7">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-introduction-to-ai.png" width="320" alt="Introduction to AI Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Maximize Productivity With AI Tools</strong><br/>
-      <sub><a href="https://coursera.org/verify/YLBW8IUHL2AT">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/YLBW8IUHL2AT">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-maximize-productivity-with-ai-tools.png" width="320" alt="Maximize Productivity With AI Tools Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Discover the Art of Prompting</strong><br/>
-      <sub><a href="https://coursera.org/verify/95K4US2N6RI4">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/95K4US2N6RI4">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-discover-the-art-of-prompting.png" width="320" alt="Discover the Art of Prompting Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Use AI Responsibly</strong><br/>
-      <sub><a href="https://coursera.org/verify/67U9FYD7X0F3">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/67U9FYD7X0F3">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-use-ai-responsibly.png" width="320" alt="Use AI Responsibly Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Stay Ahead of the AI Curve</strong><br/>
-      <sub><a href="https://coursera.org/verify/LAOTVMIOVCJW">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/LAOTVMIOVCJW">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-stay-ahead-of-the-ai-curve.png" width="320" alt="Stay Ahead of the AI Curve Certificate"/>
     </td>
     <td align="center" width="50%" valign="top"></td>
@@ -721,44 +391,44 @@ currently:
 <br/>
 
 <details>
-<summary>🎓 <strong>Accelerate Your Job Search with AI Specialization</strong> &nbsp;(Completed)</summary>
+<summary>🎓 <strong>Accelerate Your Job Search with AI Specialization</strong> &nbsp;(Đã hoàn thành)</summary>
 <br/>
 
-- **Issuer:** Google via Coursera
-- **Issued Date:** April 25, 2026
-- **Credential:** [Verify Specialization](https://coursera.org/verify/specialization/DM1GGN4MS6QE)
-- **Overview:** Specialization on optimizing modern job acquisition workflows with AI, including skills inventorying, strategic career research, application tailoring, and interview simulations.
+- **Tổ chức cấp:** Google qua Coursera
+- **Ngày cấp:** 25/04/2026
+- **Xác thực:** [Verify Specialization](https://coursera.org/verify/specialization/DM1GGN4MS6QE)
+- **Tổng quan:** Chuyên đề ứng dụng AI vào quy trình định vị sự nghiệp, lập danh mục kỹ năng chuyển đổi, nghiên cứu thị trường lao động, cá nhân hóa hồ sơ ứng tuyển và mô phỏng phỏng vấn.
 
 <p align="center">
   <img src="./image/certificate-google-accelerate-your-job-search-with-ai.png" width="680" alt="Accelerate Your Job Search with AI Specialization Certificate"/>
 </p>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View 4 Course Certificates</strong></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>Xem 4 chứng chỉ thành phần</strong></summary>
 <br/>
 
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Uncover Your Transferable Skills with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/BOXPIJ1FTNTO">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/BOXPIJ1FTNTO">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-uncover-your-transferable-skills-with-ai.png" width="320" alt="Uncover Your Transferable Skills with AI Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Plan Your Job Search with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/4KVCJ4AEDZSB">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/4KVCJ4AEDZSB">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-plan-your-job-search-with-ai.png" width="320" alt="Plan Your Job Search with AI Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Manage Your Job Applications with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/4EEKR5ME6QIY">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/4EEKR5ME6QIY">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-manage-your-job-applications-with-ai.png" width="320" alt="Manage Your Job Applications with AI Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Prepare and Practice for Interviews with AI</strong><br/>
-      <sub><a href="https://coursera.org/verify/RBQ3URO1UDZ5">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/RBQ3URO1UDZ5">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-prepare-and-practice-for-interviews-with-ai.png" width="320" alt="Prepare and Practice for Interviews with AI Certificate"/>
     </td>
   </tr>
@@ -770,39 +440,39 @@ currently:
 <br/>
 
 <details>
-<summary>🎓 <strong>Google Prompting Essentials Specialization</strong> &nbsp;(Completed)</summary>
+<summary>🎓 <strong>Google Prompting Essentials Specialization</strong> &nbsp;(Đã hoàn thành)</summary>
 <br/>
 
-- **Issuer:** Google via Coursera
-- **Issued Date:** April 25, 2026
-- **Overview:** Advanced prompt design methodologies for complex everyday tasks, speed data analysis, presentation automation, and leveraging AI models as collaborative thought partners.
+- **Tổ chức cấp:** Google qua Coursera
+- **Ngày cấp:** 25/04/2026
+- **Tổng quan:** Phương pháp thiết kế Prompt nâng cao cho các nghiệp vụ chuyên môn, tự động hóa phân tích dữ liệu, báo cáo thuyết trình và cộng tác hiệu quả cùng các mô hình AI.
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View 4 Course Certificates</strong></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>Xem 4 chứng chỉ thành phần</strong></summary>
 <br/>
 
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Start Writing Prompts like a Pro</strong><br/>
-      <sub><a href="https://coursera.org/verify/7D7NHC7BYM89">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/7D7NHC7BYM89">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-start-writing-prompts-like-a-pro.png" width="320" alt="Start Writing Prompts like a Pro Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Design Prompts for Everyday Work Tasks</strong><br/>
-      <sub><a href="https://coursera.org/verify/Z8XRRMSZD9A9">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/Z8XRRMSZD9A9">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-design-prompts-for-everyday-work-tasks.png" width="320" alt="Design Prompts for Everyday Work Tasks Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Speed Up Data Analysis and Presentation Building</strong><br/>
-      <sub><a href="https://coursera.org/verify/KEJ60APLHJLC">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/KEJ60APLHJLC">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-speed-up-data-analysis-and-presentation-building.png" width="320" alt="Speed Up Data Analysis and Presentation Building Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Use AI as a Creative or Expert Partner</strong><br/>
-      <sub><a href="https://coursera.org/verify/UXU8U2ROLZJ09">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/UXU8U2ROLZJ09">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-use-ai-as-a-creative-or-expert-partner.png" width="320" alt="Use AI as a Creative or Expert Partner Certificate"/>
     </td>
   </tr>
@@ -814,63 +484,63 @@ currently:
 <br/>
 
 <details>
-<summary>🎓 <strong>Google UX Design Professional Certificate</strong> &nbsp;(Completed)</summary>
+<summary>🎓 <strong>Google UX Design Professional Certificate</strong> &nbsp;(Đã hoàn thành)</summary>
 <br/>
 
-- **Issuer:** Google via Coursera
-- **Issued Date:** April 25, 2026
-- **Credential:** [Verify Professional Certificate](https://coursera.org/verify/professional-cert/CO07OPHIC3ER)
-- **Overview:** Comprehensive 7-course UX design curriculum focusing on user empathy, wireframing, high-fidelity prototypes in Figma, UX research, and dynamic web interfaces.
+- **Tổ chức cấp:** Google qua Coursera
+- **Ngày cấp:** 25/04/2026
+- **Xác thực:** [Verify Professional Certificate](https://coursera.org/verify/professional-cert/CO07OPHIC3ER)
+- **Tổng quan:** Chương trình đào tạo toàn diện 7 khóa học về thiết kế trải nghiệm người dùng: nghiên cứu thấu cảm người dùng (Empathize), phác thảo khung dây (Wireframe), thiết kế mẫu thử độ chân thực cao (High-Fidelity Prototype) trên Figma và xây dựng giao diện tương tác động.
 
 <p align="center">
   <img src="./image/certificate-google-ux-design-professional.png" width="680" alt="Google UX Design Professional Certificate"/>
 </p>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>View 7 Course Certificates</strong></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📚 <strong>Xem 7 chứng chỉ thành phần</strong></summary>
 <br/>
 
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Foundations of User Experience (UX) Design</strong><br/>
-      <sub><a href="https://coursera.org/verify/5ACPWD0XBD3W">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/5ACPWD0XBD3W">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ux-foundations.png" width="320" alt="Foundations of UX Design Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Start the UX Design Process: Empathize, Define, Ideate</strong><br/>
-      <sub><a href="https://coursera.org/verify/926MG2Z7ZQEE">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/926MG2Z7ZQEE">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ux-empathize-define-ideate.png" width="320" alt="Start UX Design Process Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Build Wireframes and Low-Fidelity Prototypes</strong><br/>
-      <sub><a href="https://coursera.org/verify/NXQ2IIME4XM4">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/NXQ2IIME4XM4">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ux-wireframes-prototypes.png" width="320" alt="Build Wireframes Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Conduct UX Research and Test Early Concepts</strong><br/>
-      <sub><a href="https://coursera.org/verify/Y4K2LKTMUP5V">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/Y4K2LKTMUP5V">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ux-research-test-concepts.png" width="320" alt="Conduct UX Research Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Create High-Fidelity Designs &amp; Prototypes in Figma</strong><br/>
-      <sub><a href="https://coursera.org/verify/33K9GDA8MMPT">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/33K9GDA8MMPT">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-ux-high-fidelity-designs-prototypes-figma.png" width="320" alt="Figma High-Fidelity Certificate"/>
     </td>
     <td align="center" width="50%" valign="top">
       <strong>Build Dynamic User Interfaces (UI) for Websites</strong><br/>
-      <sub><a href="https://coursera.org/verify/DRQSN9BG2QL2">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/DRQSN9BG2QL2">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-build-dynamic-user-interfaces-ui-for-websites.png" width="320" alt="Dynamic UI Certificate"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <strong>Design UX for Social Good &amp; Prepare for Jobs</strong><br/>
-      <sub><a href="https://coursera.org/verify/B7WZ416MKODO">Verify Credential</a></sub><br/><br/>
+      <sub><a href="https://coursera.org/verify/B7WZ416MKODO">Xác thực chứng chỉ</a></sub><br/><br/>
       <img src="./image/certificate-google-design-user-experience-for-social-good-prepare-for-jobs.png" width="320" alt="UX for Social Good Certificate"/>
     </td>
     <td align="center" width="50%" valign="top"></td>
@@ -886,10 +556,10 @@ currently:
 <summary>🎓 <strong>AI Application for Game, Web, and Project Management</strong></summary>
 <br/>
 
-- **Issuer:** Công ty TNHH Lượng Từ Xanh (Green Quantum Company)
-- **Duration:** February 4 – 15, 2026
-- **Location:** Ho Chi Minh City, Vietnam
-- **Overview:** Practical course focusing on integrating AI technologies into real-world software architecture, game systems, and agile project management.
+- **Đơn vị tổ chức:** Công ty TNHH Lượng Từ Xanh (Green Quantum Company)
+- **Thời gian:** 04 – 15/02/2026
+- **Địa điểm:** TP. Hồ Chí Minh, Việt Nam
+- **Tổng quan:** Khóa học thực chiến tích hợp công nghệ AI vào kiến trúc phần mềm thực tế, hệ thống game và quản lý dự án linh hoạt (Agile).
 
 <p align="center">
   <img src="./image/certificate-ai-game-web-project-management.png" width="680" alt="AI Application Certificate"/>
@@ -902,8 +572,8 @@ currently:
 <summary>🎓 <strong>Financial Data Analysis and Decision-Making in the Advent of AI</strong></summary>
 <br/>
 
-- **Status:** Completed
-- **Overview:** Foundations of computational financial data analysis, statistical indicators, and algorithmic decision modeling powered by AI tools.
+- **Trạng thái:** Đã hoàn thành
+- **Tổng quan:** Nền tảng phân tích dữ liệu tài chính tính toán, các chỉ số thống kê và mô hình hóa quyết định được hỗ trợ bởi các công cụ AI.
 
 <p align="center">
   <img src="./image/certificate-financial-data-ai.png" width="680" alt="Financial Data Analysis Certificate"/>
@@ -916,8 +586,8 @@ currently:
 <summary>🎓 <strong>Gemini Certified (Google)</strong></summary>
 <br/>
 
-- **Status:** Certified
-- **Overview:** Demonstrates mastery of multimodal Gemini capabilities in academic, content synthesis, research methodology, and student workflows.
+- **Trạng thái:** Đã chứng nhận
+- **Tổng quan:** Chứng minh năng lực thành thạo các tính năng đa phương thức của Google Gemini trong học thuật, tổng hợp nội dung, phương pháp nghiên cứu và quy trình học tập.
 
 <table width="100%">
   <tr>
@@ -935,7 +605,7 @@ currently:
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Thống kê GitHub
 
 <div align="center">
 
@@ -951,7 +621,7 @@ currently:
 
 ---
 
-### 📬 Connect with Me
+### 📬 Liên hệ với tôi
 
 <div align="center">
 
