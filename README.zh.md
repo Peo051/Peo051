@@ -30,9 +30,9 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Peo051"><img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-06111C?style=for-the-badge" alt="Tiếng Việt"/></a>
+  <a href="https://github.com/Peo051"><img src="https://img.shields.io/badge/🇬🇧_English-06111C?style=for-the-badge" alt="English"/></a>
   &nbsp;
-  <a href="https://github.com/Peo051/Peo051/blob/main/README.en.md"><img src="https://img.shields.io/badge/🇬🇧_English-06111C?style=for-the-badge" alt="English"/></a>
+  <a href="https://github.com/Peo051/Peo051/blob/main/README.vi.md"><img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-06111C?style=for-the-badge" alt="Tiếng Việt"/></a>
   &nbsp;
   <a href="https://github.com/Peo051/Peo051/blob/main/README.zh.md"><img src="https://img.shields.io/badge/🇨🇳_中文-0284C7?style=for-the-badge" alt="中文"/></a>
 </p>
