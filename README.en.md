@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06111C,50:0E3558,100:0284C7&height=230&section=header&text=Gia%20Bao%20%7C%20Peo051&fontSize=42&fontColor=F0F9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Architecture%20%7C%20Applied%20AI&descAlignY=60&descSize=17" alt="Gia Bao | Peo051 — Software Engineering Student" />
 </p>
 
-<h1 align="center">Gia Bao | Peo051</h1>
+<h1 align="center">Tran Duong Gia Bao | Peo051</h1>
 <p align="center"><strong>Software Engineering Student | Backend Architecture | Applied AI</strong></p>
 
 <p align="center">
@@ -29,187 +29,15 @@
 
 <br/>
 
-<!-- Language Switcher Bar -->
 <p align="center">
-  <a href="#tieng-viet"><img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-0284C7?style=for-the-badge" alt="Tiếng Việt"/></a>
+  <a href="./README.vi.md"><img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-06111C?style=for-the-badge" alt="Tiếng Việt"/></a>
   &nbsp;
-  <a href="#english"><img src="https://img.shields.io/badge/🇬🇧_English-06111C?style=for-the-badge" alt="English"/></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/🇬🇧_English-0284C7?style=for-the-badge" alt="English"/></a>
   &nbsp;
-  <a href="#chinese"><img src="https://img.shields.io/badge/🇨🇳_中文-06111C?style=for-the-badge" alt="中文"/></a>
-</p>
-
-<p align="center">
-  <sub>🌐 Standalone files: <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.en.md">English</a> · <a href="./README.zh.md">中文</a></sub>
+  <a href="./README.zh.md"><img src="https://img.shields.io/badge/🇨🇳_中文-06111C?style=for-the-badge" alt="中文"/></a>
 </p>
 
 ---
-
-<a id="tieng-viet"></a>
-## 🇻🇳 Tiếng Việt
-
-<p align="right">
-  <sub>Chuyển sang: <a href="#english">🇬🇧 English</a> · <a href="#chinese">🇨🇳 中文</a> · <a href="#top">▲ Lên đầu trang</a></sub>
-</p>
-
-### 👤 Giới thiệu
-
-```yaml
-# Trần Dương Gia Bảo — Sinh viên Kỹ thuật Phần mềm
-
-vị trí      : TP. Hồ Chí Minh, Việt Nam
-trường      : Đại học Công Thương TP.HCM (HUIT)
-chuyên ngành: Công nghệ Thông tin
-email       : tranduonggiabao0501email@gmail.com
-portfolio   : https://peo051.github.io/portfolio/
-
-định hướng:
-  - Phát triển Backend và Full-stack với C# / .NET 8 và ASP.NET Core
-  - Thiết kế RESTful API, cơ sở dữ liệu quan hệ, ứng dụng WPF / MVVM
-  - Ứng dụng AI và thị giác máy tính với Python, YOLOv8, OpenCV, PyTorch
-  - Nghiên cứu thuật toán khai phá tập mục hữu ích cao (High-Utility Itemset Mining)
-
-hiện tại:
-  - Xây dựng các dự án thực tế qua Desktop, Web và nền tảng AI
-  - Kết nối nền tảng kỹ thuật phần mềm vững chắc với nghiên cứu giải thuật
-```
-
-### 🛠️ Kỹ năng chuyên môn
-
-<div align="left">
-
-#### 💻 Ngôn ngữ lập trình
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-#### ⚙️ Backend & Kiến trúc
-<p>
-  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/WPF%20%2F%20MVVM-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF / MVVM"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API"/>
-</p>
-
-#### 🧠 Trí tuệ Nhân tạo & Nghiên cứu
-<p>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=opencv&logoColor=black" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-38BDF8?style=flat-square&logo=tensorflow&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Vision%20Transformer%20(ViT)-818CF8?style=flat-square" alt="ViT"/>
-  <img src="https://img.shields.io/badge/High--Utility%20Itemset%20Mining-A78BFA?style=flat-square" alt="HUIM"/>
-</p>
-
-#### 🗄️ Cơ sở dữ liệu & Đám mây
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/PayOS%20%2F%20VietQR-0052CC?style=flat-square&logo=contactlesspayment&logoColor=white" alt="PayOS / VietQR"/>
-</p>
-
-#### 🛠️ Công cụ phát triển
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-</div>
-
----
-
-### 📌 Dự án tiêu biểu
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Peo051/love-sense-ai">CodeSense AI</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/love-sense-ai"><img src="https://img.shields.io/badge/Repository-CodeSense%20AI-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://love-sense-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
-      </p>
-      <p><strong>Công nghệ:</strong> <code>Next.js</code> • <code>FastAPI</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Firebase Auth</code> • <code>Tailwind CSS</code></p>
-      <p>Nền tảng trợ giảng lập trình thích ứng cho sinh viên C# OOP. Tích hợp frontend Next.js, backend FastAPI, lưu trữ phiên học tập, xác thực Firebase, nhận diện code qua ảnh OCR và hệ thống gợi ý Socratic.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 <a href="https://github.com/Peo051/Tri-Nghia-Pharma">Tri Nghia Pharma</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Tri-Nghia-Pharma"><img src="https://img.shields.io/badge/Repository-Tri%20Nghia%20Pharma-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://github.com/Peo051/Tri-Nghia-Pharma"><img src="https://img.shields.io/badge/Platform-Zalo%20Mini%20App-0068FF?style=flat-square&logo=zalo&logoColor=white" alt="Zalo Mini App"/></a>
-      </p>
-      <p><strong>Công nghệ:</strong> <code>React 18</code> • <code>TypeScript</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Zalo Mini App (ZMP)</code></p>
-      <p>Ứng dụng Mini App thương mại điện tử dược phẩm trên nền tảng Zalo cho Dược phẩm Trí Nghĩa &amp; Opodis Pharma. Hỗ trợ tra cứu danh mục, thông tin thuốc chuẩn y khoa, giỏ hàng trực tuyến và thanh toán VietQR.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_WPF">Coffee Shop Management (WPF)</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Coffee_Shop_Management_WPF"><img src="https://img.shields.io/badge/Repository-WPF%20App-181717?style=flat-square&logo=github" alt="Repo"/></a>
-      </p>
-      <p><strong>Công nghệ:</strong> <code>C#</code> • <code>.NET 8</code> • <code>WPF (MVVM)</code> • <code>ASP.NET Core Web API</code> • <code>SQL Server</code> • <code>PayOS / VietQR</code></p>
-      <p>Hệ thống POS và vận hành chuỗi cà phê: quản lý kho, nhân viên, ca làm, khách hàng, khuyến mãi. Ứng dụng client WPF MVVM tách rời API thanh toán ASP.NET Core với mã hóa chữ ký số HMAC-SHA256.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_Web">Coffee_Shop_Management_Web</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Coffee_Shop_Management_Web"><img src="https://img.shields.io/badge/Repository-Web%20App-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://giborcoffee.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
-      </p>
-      <p><strong>Công nghệ:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Bootstrap 5.3</code> • <code>Firebase</code> • <code>Serverless PayOS</code></p>
-      <p>Website thương mại điện tử đặt món online: xem menu, giỏ hàng, đặt hàng thanh toán VietQR / COD, tích điểm thành viên và bảng điều khiển quản trị chi nhánh.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://peo051.github.io/portfolio/">Website Portfolio Cá Nhân</a></h3>
-      <p>
-        <a href="https://peo051.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Site-Visit-0284C7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-      </p>
-      <p><strong>Công nghệ:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>GitHub Pages</code></p>
-      <p>Trang thông tin cá nhân giới thiệu các dự án, kỹ năng, công trình nghiên cứu khoa học, chứng chỉ chuyên nghiệp và thông tin liên hệ.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧮 <a href="https://github.com/Peo051/Calculator">Máy Tính Desktop Calculator</a></h3>
-      <p><strong>Công nghệ:</strong> <code>C#</code> • <code>WPF</code> • <code>.NET 8</code> • <code>MVVM</code></p>
-      <p>Phần mềm máy tính phong cách Windows Calculator với đầy đủ phép tính số học, lưu lịch sử tính toán, phím nhớ, phím tắt và kiến trúc MVVM mạch lạc.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/Peo051/QuanLiBaiDoXe">Quản Lý Bãi Đỗ Xe (QuanLiBaiDoXe)</a></h3>
-      <p><strong>Công nghệ:</strong> <code>C++</code> • <code>Cấu trúc dữ liệu &amp; Giải thuật</code> • <code>File I/O</code></p>
-      <p>Chương trình mô phỏng điều phối bãi đỗ xe bằng C++, tối ưu giải thuật điều tiết xe ra vào, thuật toán tìm vị trí trống và lưu trữ tệp tin an toàn.</p>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
-</table>
-
----
-
-<a id="english"></a>
-## 🇬🇧 English
-
-<p align="right">
-  <sub>Switch to: <a href="#tieng-viet">🇻🇳 Tiếng Việt</a> · <a href="#chinese">🇨🇳 中文</a> · <a href="#top">▲ Back to top</a></sub>
-</p>
 
 ### 👤 About Me
 
@@ -232,6 +60,8 @@ currently:
   - Building practical software projects across desktop, web, and AI
   - Connecting software engineering fundamentals with algorithmic research
 ```
+
+---
 
 ### 🛠️ Technical Skills
 
@@ -364,170 +194,10 @@ currently:
 
 ---
 
-<a id="chinese"></a>
-## 🇨🇳 中文
-
-<p align="right">
-  <sub>切换语言: <a href="#tieng-viet">🇻🇳 越南语 (Tiếng Việt)</a> · <a href="#english">🇬🇧 英语 (English)</a> · <a href="#top">▲ 回到顶部</a></sub>
-</p>
-
-### 👤 关于我
-
-```yaml
-# 陈阳嘉宝 (Tran Duong Gia Bao) — 软件工程专业学生
-
-所在地      : 越南 胡志明市 (Ho Chi Minh City, Vietnam)
-大学        : 胡志明市工业与贸易大学 (HUIT)
-专业        : 信息技术 (Information Technology)
-邮箱        : tranduonggiabao0501email@gmail.com
-个人主页    : https://peo051.github.io/portfolio/
-
-核心方向:
-  - 基于 C# / .NET 8 和 ASP.NET Core 的后端与全栈系统开发
-  - RESTful API 架构、关系型数据库设计与 WPF / MVVM 桌面应用程序
-  - 基于 Python、YOLOv8 与 OpenCV 的应用人工智能与计算机视觉 (AI & CV)
-  - 高效用项集挖掘 (High-Utility Itemset Mining) 数据挖掘算法研究
-
-目前状态:
-  - 积极打造涵盖桌面端、Web端与AI的生产级实战项目
-  - 坚持将扎实的软件工程基础与前沿算法研究深度融合
-```
-
-### 🛠️ 专业技能
-
-<div align="left">
-
-#### 💻 编程语言
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-#### ⚙️ 后端与系统架构
-<p>
-  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/WPF%20%2F%20MVVM-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF / MVVM"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API"/>
-</p>
-
-#### 🧠 人工智能与前沿研究
-<p>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=opencv&logoColor=black" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/计算机视觉%20(CV)-38BDF8?style=flat-square&logo=tensorflow&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Vision%20Transformer%20(ViT)-818CF8?style=flat-square" alt="ViT"/>
-  <img src="https://img.shields.io/badge/High--Utility%20Itemset%20Mining-A78BFA?style=flat-square" alt="HUIM"/>
-</p>
-
-#### 🗄️ 数据库与云原生服务
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/PayOS%20%2F%20VietQR-0052CC?style=flat-square&logo=contactlesspayment&logoColor=white" alt="PayOS / VietQR"/>
-</p>
-
-#### 🛠️ 开发与协作工具
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-</div>
-
----
-
-### 📌 重点项目
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Peo051/love-sense-ai">CodeSense AI (自适应编程导师)</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/love-sense-ai"><img src="https://img.shields.io/badge/Repository-CodeSense%20AI-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://love-sense-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
-      </p>
-      <p><strong>技术栈:</strong> <code>Next.js</code> • <code>FastAPI</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Firebase Auth</code> • <code>Tailwind CSS</code></p>
-      <p>面向 C# OOP 初学者的全栈自适应编程辅助教学平台。集成 Next.js 前端与 FastAPI 后端，支持持久化会话数据、Firebase 鉴权、OCR 代码识别与苏格拉底式渐进引导算法。</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 <a href="https://github.com/Peo051/Tri-Nghia-Pharma">Tri Nghia Pharma (医药小程序)</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Tri-Nghia-Pharma"><img src="https://img.shields.io/badge/Repository-Tri%20Nghia%20Pharma-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://github.com/Peo051/Tri-Nghia-Pharma"><img src="https://img.shields.io/badge/Platform-Zalo%20Mini%20App-0068FF?style=flat-square&logo=zalo&logoColor=white" alt="Zalo Mini App"/></a>
-      </p>
-      <p><strong>技术栈:</strong> <code>React 18</code> • <code>TypeScript</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Zalo Mini App (ZMP)</code></p>
-      <p>运行于 Zalo 平台的医药电商与健康服务小程序，服务于 Trí Nghĩa Pharma 与 Opodis Pharma。支持药品分类导航、处方详情查看、实时购物车与 VietQR 支付。</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_WPF">Coffee Shop Management (WPF POS)</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Coffee_Shop_Management_WPF"><img src="https://img.shields.io/badge/Repository-WPF%20App-181717?style=flat-square&logo=github" alt="Repo"/></a>
-      </p>
-      <p><strong>技术栈:</strong> <code>C#</code> • <code>.NET 8</code> • <code>WPF (MVVM)</code> • <code>ASP.NET Core Web API</code> • <code>SQL Server</code> • <code>PayOS / VietQR</code></p>
-      <p>企业级咖啡门店桌面端 POS 与综合运营系统：进销存、员工排班、客户积分及财务报表。采用 MVVM 架构配合解耦的 ASP.NET Core 支付 API 与 HMAC-SHA256 签名校验。</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/Peo051/Coffee_Shop_Management_Web">Coffee_Shop_Management_Web</a></h3>
-      <p>
-        <a href="https://github.com/Peo051/Coffee_Shop_Management_Web"><img src="https://img.shields.io/badge/Repository-Web%20App-181717?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://giborcoffee.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Demo"/></a>
-      </p>
-      <p><strong>技术栈:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Bootstrap 5.3</code> • <code>Firebase</code> • <code>Serverless PayOS</code></p>
-      <p>在线咖啡点单与电商网站：支持商品浏览、购物车结算、会员账号体系、分店管理与 VietQR / 货到付款支付流程。</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://peo051.github.io/portfolio/">个人在线作品集网站</a></h3>
-      <p>
-        <a href="https://peo051.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Site-Visit-0284C7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-      </p>
-      <p><strong>技术栈:</strong> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>GitHub Pages</code></p>
-      <p>响应式个人门户主页，动态展示代表性项目、专业技能树、科研成果、权威证书与即时联络通道。</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧮 <a href="https://github.com/Peo051/Calculator">经典风格桌面计算器</a></h3>
-      <p><strong>技术栈:</strong> <code>C#</code> • <code>WPF</code> • <code>.NET 8</code> • <code>MVVM</code></p>
-      <p>仿 Windows 风格桌面计算器，涵盖四则运算、历史记录留存、内存暂存按键、键盘快捷响应与清晰的 MVVM 架构分层。</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/Peo051/QuanLiBaiDoXe">智能停车场管理系统模拟</a></h3>
-      <p><strong>技术栈:</strong> <code>C++</code> • <code>数据结构与算法</code> • <code>文件 I/O</code></p>
-      <p>基于 C++ 的停车场出入库调度与管理模拟系统，应用经典数据结构实现车流调控、车位智能分配算法与持久化日志管理。</p>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Thành tích / Achievements / 荣誉与竞赛
+### 🏆 Notable Achievements
 
 <details>
-<summary><strong>Database Design Challenge — HUIT, AY 2025–2026</strong> &nbsp;🏅 <em>Encouragement Prize (Giải Khuyến khích)</em></summary>
+<summary><strong>Database Design Challenge — HUIT, AY 2025–2026</strong> &nbsp;🏅 <em>Encouragement Prize</em></summary>
 <br/>
 <p align="center">
   <img src="./image/database-design-challenge-2025.jpg" width="540" alt="HUIT Database Design Challenge Encouragement Prize certificate"/>
@@ -540,7 +210,7 @@ currently:
 <br/>
 
 <details>
-<summary><strong>Data Science Competition — University Level (Final Round)</strong> &nbsp;🔬 <em>Finalist Track (Vòng Chung kết)</em></summary>
+<summary><strong>Data Science Competition — University Level (Final Round)</strong> &nbsp;🔬 <em>Finalist Track</em></summary>
 <br/>
 <table width="100%">
   <tr>
@@ -564,7 +234,7 @@ currently:
 <br/>
 
 <details>
-<summary><strong>Student Research Competition — HUIT, AY 2025–2026</strong> &nbsp;🏅 <em>Encouragement Prize (Nghiên cứu khoa học)</em></summary>
+<summary><strong>Student Research Competition — HUIT, AY 2025–2026</strong> &nbsp;🏅 <em>Encouragement Prize</em></summary>
 <br/>
 <table width="100%">
   <tr>
@@ -579,11 +249,11 @@ currently:
   </tr>
 </table>
 
-- **Topic / Đề tài:** *"Optimizing Time in Mining High Utility Itemsets on Positive and Negative Profit Transaction Databases"*
-- **Team / Nhóm tác giả:** Trần Dương Gia Bảo, Trần Gia Bảo
-- **Advisors / GVHD:** ThS. Vũ Văn Vinh, HV. Phạm Tấn Thuận
-- **Date / Ngày nghiệm thu:** April 4, 2026
-- **Source Code / Mã nguồn:** [`HUIMiner`](https://github.com/Peo051/HUIMiner) &amp; [`CLHMiner`](https://github.com/Peo051/CLHMiner)
+- **Topic:** *"Optimizing Time in Mining High Utility Itemsets on Positive and Negative Profit Transaction Databases"*
+- **Team:** Trần Dương Gia Bảo, Trần Gia Bảo
+- **Advisors:** MSc. Vũ Văn Vinh, ME. Phạm Tấn Thuận
+- **Date:** April 4, 2026
+- **Source Code:** [`HUIMiner`](https://github.com/Peo051/HUIMiner) &amp; [`CLHMiner`](https://github.com/Peo051/CLHMiner)
 
 <p align="center">
   <em>Conducted scientific research and presented findings in the Faculty of Information Technology Student Research Conference at HUIT, receiving the Encouragement Prize.</em>
@@ -592,7 +262,7 @@ currently:
 
 ---
 
-### 📜 Chứng chỉ chuyên môn / Certifications / 专业认证
+### 📜 Professional Certifications
 
 <details>
 <summary>🎓 <strong>Google AI Professional Certificate</strong> &nbsp;(Completed)</summary>
@@ -886,7 +556,7 @@ currently:
 <summary>🎓 <strong>AI Application for Game, Web, and Project Management</strong></summary>
 <br/>
 
-- **Issuer:** Công ty TNHH Lượng Từ Xanh (Green Quantum Company)
+- **Issuer:** Green Quantum Company (Công ty TNHH Lượng Từ Xanh)
 - **Duration:** February 4 – 15, 2026
 - **Location:** Ho Chi Minh City, Vietnam
 - **Overview:** Practical course focusing on integrating AI technologies into real-world software architecture, game systems, and agile project management.
